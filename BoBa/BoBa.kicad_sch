@@ -5943,7 +5943,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "FP-BLM15-0_05-IPC_B"
+		(property "Footprint" "Vault:FP-BLM15-0_05-IPC_B"
 			(at 128.27 254 0)
 			(hide yes)
 			(show_name no)
@@ -6433,7 +6433,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "RESC3116X70X50ML13T20"
+		(property "Footprint" "Vault:RESC3116X70X50ML13T20"
 			(at 146.05 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -6634,7 +6634,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "FP-BLM15-0_05-IPC_B"
+		(property "Footprint" "Vault:FP-BLM15-0_05-IPC_B"
 			(at 128.27 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -7123,7 +7123,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "C__Users_Public_Documents_SnapEDA Altium Plugin_libraries_SnapEDA_Library_PE1206DRM470R025L.PcbLib:RESC3216X89N"
+		(property "Footprint" "Vault:RESC3216X89N"
 			(at 77.47 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -7351,7 +7351,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "FAIR-TO-252-3_V"
+		(property "Footprint" "Vault:FAIR-TO-252-3_V"
 			(at 273.05 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -7735,7 +7735,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "FP-GRM155-0_05-IPC_B"
+		(property "Footprint" "Vault:FP-GRM155-0_05-IPC_B"
 			(at 361.95 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -8105,7 +8105,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "RESC3116X70X50ML13T20"
+		(property "Footprint" "Vault:RESC3116X70X50ML13T20"
 			(at 146.05 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -8306,7 +8306,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "SOT23-8"
+		(property "Footprint" "Vault:SOT23-8"
 			(at 74.93 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -8551,7 +8551,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "C__Users_Public_Documents_SnapEDA Altium Plugin_libraries_SnapEDA_Library_PE1206DRM470R025L.PcbLib:RESC3216X89N"
+		(property "Footprint" "Vault:RESC3216X89N"
 			(at 303.53 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -8786,7 +8786,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "RESC3116X70X50ML13T20"
+		(property "Footprint" "Vault:RESC3116X70X50ML13T20"
 			(at 146.05 238.76 0)
 			(hide yes)
 			(show_name no)
@@ -8986,7 +8986,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "FP-DCN0008A-IPC_B"
+		(property "Footprint" "Vault:FP-DCN0008A-IPC_B"
 			(at 161.29 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -9494,7 +9494,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "FP-BLM15-0_05-IPC_B"
+		(property "Footprint" "Vault:FP-BLM15-0_05-IPC_B"
 			(at 128.27 238.76 0)
 			(hide yes)
 			(show_name no)
@@ -10057,7 +10057,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "FP-RG1005-MFG"
+		(property "Footprint" "Vault:FP-RG1005-MFG"
 			(at 285.75 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -10426,7 +10426,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "RESC3225X60N"
+		(property "Footprint" "Vault:RESC3225X60N"
 			(at 285.75 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -10579,7 +10579,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "FP-DCN0008A-IPC_B"
+		(property "Footprint" "Vault:FP-DCN0008A-IPC_B"
 			(at 293.37 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -11086,7 +11086,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "C__Users_Public_Documents_SnapEDA Altium Plugin_libraries_SnapEDA_Library_PE1206DRM470R025L.PcbLib:RESC3216X89N"
+		(property "Footprint" "Vault:RESC3216X89N"
 			(at 130.81 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -11240,7 +11240,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "FP-RG1005-IPC_B"
+		(property "Footprint" "Vault:FP-RG1005-IPC_B"
 			(at 285.75 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -11609,7 +11609,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "C__Users_Public_Documents_SnapEDA Altium Plugin_libraries_SnapEDA_Library_FQD13N06LTM.PcbLib:TO229P991X239-3N"
+		(property "Footprint" "Vault:TO229P991X239-3N"
 			(at 346.71 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -11766,7 +11766,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "FP-BLM15-0_05-IPC_B"
+		(property "Footprint" "Vault:FP-BLM15-0_05-IPC_B"
 			(at 128.27 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -12256,7 +12256,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CAPC1005X06N"
+		(property "Footprint" "Vault:CAPC1005X06N"
 			(at 285.75 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -12531,7 +12531,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "FP-ERJ2RK-MFG"
+		(property "Footprint" "Vault:FP-ERJ2RK-MFG"
 			(at 349.25 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -12961,7 +12961,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "RESC3116X70X50ML13T20"
+		(property "Footprint" "Vault:RESC3116X70X50ML13T20"
 			(at 146.05 254 0)
 			(hide yes)
 			(show_name no)
@@ -13383,7 +13383,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "FP-UD-12-05-08-1855-IPC_B"
+		(property "Footprint" "Vault:FP-UD-12-05-08-1855-IPC_B"
 			(at 295.91 101.6 0)
 			(hide yes)
 			(show_name no)
