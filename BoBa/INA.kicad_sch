@@ -1578,7 +1578,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "FP-ERJ2RK-MFG"
+		(property "Footprint" "Vault:FP-ERJ2RK-MFG"
 			(at 133.35 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -1967,12 +1967,6 @@
 		)
 		(instances
 			(project "BoBa"
-				(path "/eea5ac2b-0263-4b76-a86f-96656803f600/59f67bea-5f0a-4bcd-8759-a7c2fd72ecbb"
-					(reference "R30")
-					(unit 1)
-				)
-			)
-			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da/b3ff1496-97f2-4268-bcc9-3f742454327d"
 					(reference "R31")
 					(unit 1)
@@ -2046,12 +2040,6 @@
 			(uuid "dcae4922-c3ed-480b-942d-5b00622ee5b1")
 		)
 		(instances
-			(project "BoBa"
-				(path "/eea5ac2b-0263-4b76-a86f-96656803f600/59f67bea-5f0a-4bcd-8759-a7c2fd72ecbb"
-					(reference "#PWR047")
-					(unit 1)
-				)
-			)
 			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da/b3ff1496-97f2-4268-bcc9-3f742454327d"
 					(reference "#PWR048")
@@ -2128,12 +2116,6 @@
 		)
 		(instances
 			(project "BoBa"
-				(path "/eea5ac2b-0263-4b76-a86f-96656803f600/59f67bea-5f0a-4bcd-8759-a7c2fd72ecbb"
-					(reference "#PWR038")
-					(unit 1)
-				)
-			)
-			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da/b3ff1496-97f2-4268-bcc9-3f742454327d"
 					(reference "#PWR039")
 					(unit 1)
@@ -2152,7 +2134,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b9a47146-b784-4c1d-83d9-ee52f496c1d6")
-		(property "Reference" "IN-A"
+		(property "Reference" "IN-A1"
 			(at 130.556 20.574 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2174,7 +2156,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "INF-PG-SOT23_M"
+		(property "Footprint" "Vault:INF-PG-SOT23_M"
 			(at 130.81 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -2530,14 +2512,8 @@
 		)
 		(instances
 			(project "BoBa"
-				(path "/eea5ac2b-0263-4b76-a86f-96656803f600/59f67bea-5f0a-4bcd-8759-a7c2fd72ecbb"
-					(reference "1114211111")
-					(unit 1)
-				)
-			)
-			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da/b3ff1496-97f2-4268-bcc9-3f742454327d"
-					(reference "IN-A")
+					(reference "IN-A1")
 					(unit 1)
 				)
 			)
@@ -2576,7 +2552,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "FP-UD-12-05-08-1855-IPC_A"
+		(property "Footprint" "Vault:FP-UD-12-05-08-1855-IPC_A"
 			(at 85.09 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -2818,12 +2794,6 @@
 		)
 		(instances
 			(project "BoBa"
-				(path "/eea5ac2b-0263-4b76-a86f-96656803f600/59f67bea-5f0a-4bcd-8759-a7c2fd72ecbb"
-					(reference "U19")
-					(unit 1)
-				)
-			)
-			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da/b3ff1496-97f2-4268-bcc9-3f742454327d"
 					(reference "U20")
 					(unit 1)
@@ -2864,7 +2834,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "FP-GRM155-0_05-IPC_B"
+		(property "Footprint" "Vault:FP-GRM155-0_05-IPC_B"
 			(at 146.05 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -3193,12 +3163,6 @@
 		)
 		(instances
 			(project "BoBa"
-				(path "/eea5ac2b-0263-4b76-a86f-96656803f600/59f67bea-5f0a-4bcd-8759-a7c2fd72ecbb"
-					(reference "C15")
-					(unit 1)
-				)
-			)
-			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da/b3ff1496-97f2-4268-bcc9-3f742454327d"
 					(reference "C16")
 					(unit 1)
@@ -3272,12 +3236,6 @@
 			(uuid "285bad02-a88e-4a86-8a99-134a6c01cd96")
 		)
 		(instances
-			(project "BoBa"
-				(path "/eea5ac2b-0263-4b76-a86f-96656803f600/59f67bea-5f0a-4bcd-8759-a7c2fd72ecbb"
-					(reference "#PWR041")
-					(unit 1)
-				)
-			)
 			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da/b3ff1496-97f2-4268-bcc9-3f742454327d"
 					(reference "#PWR042")
