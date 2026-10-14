@@ -2987,7 +2987,7 @@
 		(uuid "14341e69-1cf2-4df0-85c9-915c0013523d")
 		(at 126.47608 102.74666 -90)
 		(property "Reference" "U4_IN-A"
-			(at -3.179935 -0.87299 0)
+			(at 0.20281 -6.21441 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "b8cabe35-5167-4df8-b64f-bf2e7baa6ed4")
@@ -3503,7 +3503,7 @@
 		(uuid "1fcbae01-612f-48fe-921f-db8016a999e1")
 		(at 129.66978 94.76796 90)
 		(property "Reference" "R7"
-			(at 0.602005 1.749765 270)
+			(at -0.18151 2.02071 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "4865b152-962c-40b7-95d0-1150291091b9")
@@ -4010,7 +4010,7 @@
 		(uuid "3ab8b49b-ed71-459f-b2f8-b6441e624f76")
 		(at 165.6061 107.43763)
 		(property "Reference" "U1"
-			(at 1.59631 -3.057905 0)
+			(at 1.08439 2.51184 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "b9cc4c70-a9fa-443f-bc99-0cc77a0acc9a")
@@ -5424,7 +5424,7 @@
 		(uuid "54e22c55-176a-4f8a-8004-10792832f239")
 		(at 127.53964 106.88715)
 		(property "Reference" "C4_IN-A"
-			(at -4.191 0.138515 0)
+			(at -4.191 0.06232 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "b8d18da3-ceb6-4342-9a23-ec686f03ea41")
@@ -5978,7 +5978,7 @@
 		(uuid "596689e2-921a-4882-bfe5-150ff79840dc")
 		(at 165.34944 100.29059 180)
 		(property "Reference" "RS1"
-			(at -3.39092 0.317595 0)
+			(at -3.84105 0.34112 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "935dd119-2ca1-474e-bcfc-9ec42417de23")
@@ -8214,7 +8214,7 @@
 		(uuid "8556fe88-0ab4-429e-b6de-7e69bdb09300")
 		(at 164.10608 103.19415)
 		(property "Reference" "R3"
-			(at -2.361395 0.111765 0)
+			(at -2.41559 -0.74468 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "693dbb83-b2be-4a54-97b6-d5f81b40a2f2")
@@ -8528,7 +8528,7 @@
 		(uuid "8638eb84-f52e-4b65-806c-078d3918104e")
 		(at 116.89408 102.63516 180)
 		(property "Reference" "1_IN-A"
-			(at -0.104555 -2.943005 0)
+			(at -0.79641 -2.81431 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "4045a67c-a95d-4dfb-8bb1-5c4ea1bf754a")
@@ -8758,7 +8758,7 @@
 		(uuid "86f191a8-8dc9-455f-9ac9-df2a982d5868")
 		(at 121.55346 94.77904 180)
 		(property "Reference" "U5"
-			(at 2.804445 -1.092715 90)
+			(at 2.86297 -0.67043 90)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "026a6026-7b73-4dbf-8e96-a65680cb7252")
@@ -9854,7 +9854,7 @@
 		(uuid "be2bc211-ec26-4546-ad95-e5a4869ce0cd")
 		(at 169.81736 102.74666)
 		(property "Reference" "R4"
-			(at -0.103225 -1.281445 0)
+			(at -2.12687 -0.29719 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "6967b87f-349d-4563-89f0-22b97d9736be")
@@ -10026,7 +10026,7 @@
 		(uuid "cc98db02-efaa-43ff-95c1-1cde6616e6ff")
 		(at 121.39608 102.56915)
 		(property "Reference" "R6_IN-A"
-			(at -0.12701 -3.002425 0)
+			(at -2.70559 -4.11968 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "efecf53a-7b0c-4cc4-b546-d8aa9ad80cdb")
@@ -10783,7 +10783,7 @@
 		(uuid "e89d01ed-da51-473d-8cbe-037a03441e8d")
 		(at 136.65852 88.26391 180)
 		(property "Reference" "R12"
-			(at 1.545459 -1.74721 90)
+			(at -2.03197 0.81444 90)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "1cb091ca-30f3-4c24-858b-1144a860d698")
@@ -10955,7 +10955,7 @@
 		(uuid "f72c4a40-1985-4fea-9f87-7ead5a450050")
 		(at 129.52571 89.04293 90)
 		(property "Reference" "U2"
-			(at -2.671715 -0.044425 0)
+			(at 2.59346 0.16478 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "3075ce09-f848-462b-9f50-c8e58b1dc91d")
