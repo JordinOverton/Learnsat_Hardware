@@ -3,7 +3,7 @@
 # Minimum Trace Width and Spacing
 (rule "Minimum Track Width and Spacing"
 	(constraint track_width (min 0.165mm))
-	(constraint clearance (min 0.203mm))
+	(constraint clearance (min 0.200mm))
 	(condition "A.Type == 'track'"))
 
 # Drill / Hole Size Capabilities
