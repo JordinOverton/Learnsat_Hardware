@@ -95,19 +95,20 @@
 		)
 	)
 	(property "SHEETTOTAL" "3")
-	(footprint "SnapEDA_Library:SAMTEC_SSQ-126-X-G-D"
+	(footprint "Vault:SAMTEC_SSQ-126-X-G-D"
 		(layer "F.Cu")
 		(uuid "04621738-a723-4cf2-9332-8dc16ac8f3e3")
 		(at 147.11552 68.70266 180)
 		(property "Reference" "H1"
-			(at 35.721535 -1.35923 90)
+			(at 35.721525 -0.74681 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "6db930bc-6010-490c-a152-02dbc6fa9c5e")
 			(effects
 				(font
-					(size 1 1)
+					(size 1 0.8128)
 					(thickness 0.15)
+					(bold yes)
 				)
 			)
 		)
@@ -151,7 +152,7 @@
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 33.275 2.475)
-			(end -33.275 2.475)
+			(end -33.27501 2.475)
 			(stroke
 				(width 0.2)
 				(type solid)
@@ -171,7 +172,7 @@
 		)
 		(fp_line
 			(start 33.275 -2.475)
-			(end -33.275 -2.475)
+			(end -33.27501 -2.475)
 			(stroke
 				(width 0.2)
 				(type solid)
@@ -180,8 +181,8 @@
 			(uuid "0e741130-17e8-42ef-9485-7a81e42a8b71")
 		)
 		(fp_line
-			(start -33.275 -2.475)
-			(end -33.275 2.475)
+			(start -33.27501 -2.475)
+			(end -33.27501 2.475)
 			(stroke
 				(width 0.2)
 				(type solid)
@@ -190,8 +191,8 @@
 			(uuid "ec962f5f-044a-47e6-9733-c70c39017ec0")
 		)
 		(fp_circle
-			(center 34.035 1.31)
-			(end 34.035 1.41)
+			(center 34.03499 1.31)
+			(end 34.03499 1.41)
 			(stroke
 				(width 0.2)
 				(type solid)
@@ -242,7 +243,7 @@
 		)
 		(fp_line
 			(start 33.275 2.475)
-			(end -33.275 2.475)
+			(end -33.27501 2.475)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -262,7 +263,7 @@
 		)
 		(fp_line
 			(start 33.275 -2.475)
-			(end -33.275 -2.475)
+			(end -33.27501 -2.475)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -271,8 +272,8 @@
 			(uuid "df0369a8-dbcc-4c13-8969-8ba0ff5297ce")
 		)
 		(fp_line
-			(start -33.275 -2.475)
-			(end -33.275 2.475)
+			(start -33.27501 -2.475)
+			(end -33.27501 2.475)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -281,8 +282,8 @@
 			(uuid "29ae8d8b-e122-4523-99f9-496ba8c52551")
 		)
 		(fp_circle
-			(center 34.035 1.31)
-			(end 34.035 1.41)
+			(center 34.03499 1.31)
+			(end 34.03499 1.41)
 			(stroke
 				(width 0.2)
 				(type solid)
@@ -767,7 +768,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "DF13C-2P-1.25V(21):HRS_DF13C-2P-1.25V(21)"
+	(footprint "Vault:HRS_DF13C-2P-1.25V(21)"
 		(layer "F.Cu")
 		(uuid "52c8255c-e2e3-4606-bc5b-ee8bcdec0340")
 		(at 131.4381 149.36482)
@@ -822,8 +823,8 @@
 		(sheetfile "InhibitsNEW.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -2.825 -1.69999)
-			(end -1.295 -1.69999)
+			(start -2.825 -1.7)
+			(end -1.295 -1.7)
 			(stroke
 				(width 0.127)
 				(type solid)
@@ -833,7 +834,7 @@
 		)
 		(fp_line
 			(start -2.825 -1.42)
-			(end -2.825 -1.69999)
+			(end -2.825 -1.7)
 			(stroke
 				(width 0.127)
 				(type solid)
@@ -862,8 +863,8 @@
 			(uuid "8c704ab3-8277-409d-88f2-17d7e93cd623")
 		)
 		(fp_line
-			(start 1.295 -1.69999)
-			(end 2.825 -1.69999)
+			(start 1.295 -1.7)
+			(end 2.825 -1.7)
 			(stroke
 				(width 0.127)
 				(type solid)
@@ -873,7 +874,7 @@
 		)
 		(fp_line
 			(start 2.825 -1.42)
-			(end 2.825 -1.69999)
+			(end 2.825 -1.7)
 			(stroke
 				(width 0.127)
 				(type solid)
@@ -892,8 +893,8 @@
 			(uuid "73b4ca39-5a24-4934-87e7-5f4c4d32dd0a")
 		)
 		(fp_circle
-			(center -0.625 -4.34999)
-			(end -0.625 -4.44999)
+			(center -0.625 -4.35)
+			(end -0.625 -4.45)
 			(stroke
 				(width 0.2)
 				(type solid)
@@ -913,7 +914,7 @@
 			(uuid "e5f5a615-cae9-467c-afc8-5eac97f30c51")
 		)
 		(fp_line
-			(start -4.025 1.95001)
+			(start -4.025 1.95)
 			(end -4.025 -3.85)
 			(stroke
 				(width 0.05)
@@ -923,8 +924,8 @@
 			(uuid "f7cd714f-d94b-47c1-b792-1b3c34043fd7")
 		)
 		(fp_line
-			(start -4.025 1.95001)
-			(end 4.025 1.95001)
+			(start -4.025 1.95)
+			(end 4.025 1.95)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -933,7 +934,7 @@
 			(uuid "6127f636-c92c-41cc-8304-f9019b6df856")
 		)
 		(fp_line
-			(start 4.025 1.95001)
+			(start 4.025 1.95)
 			(end 4.025 -3.85)
 			(stroke
 				(width 0.05)
@@ -943,8 +944,8 @@
 			(uuid "006efbcd-bd6b-4a59-930c-5fe363d2b089")
 		)
 		(fp_line
-			(start -2.825 -1.69999)
-			(end 2.825 -1.69999)
+			(start -2.825 -1.7)
+			(end 2.825 -1.7)
 			(stroke
 				(width 0.127)
 				(type solid)
@@ -954,7 +955,7 @@
 		)
 		(fp_line
 			(start -2.825 1.7)
-			(end -2.825 -1.69999)
+			(end -2.825 -1.7)
 			(stroke
 				(width 0.127)
 				(type solid)
@@ -974,7 +975,7 @@
 		)
 		(fp_line
 			(start 2.825 1.7)
-			(end 2.825 -1.69999)
+			(end 2.825 -1.7)
 			(stroke
 				(width 0.127)
 				(type solid)
@@ -983,8 +984,8 @@
 			(uuid "c41631de-0138-447f-8e1a-e566d713a7f3")
 		)
 		(fp_circle
-			(center -0.625 -4.34999)
-			(end -0.625 -4.44999)
+			(center -0.625 -4.35)
+			(end -0.625 -4.45)
 			(stroke
 				(width 0.2)
 				(type solid)
@@ -1039,7 +1040,7 @@
 			)
 		)
 	)
-	(footprint "SnapEDA_Library:SAMTEC_SSQ-126-X-G-D"
+	(footprint "Vault:SAMTEC_SSQ-126-X-G-D"
 		(layer "F.Cu")
 		(uuid "5610bd7c-6481-44cc-acc7-7fcc3ae296fb")
 		(at 147.1315 63.36866 180)
@@ -1050,8 +1051,9 @@
 			(uuid "a97e12b6-a889-4450-ae02-9b37021fc928")
 			(effects
 				(font
-					(size 1 1)
+					(size 1 0.8128)
 					(thickness 0.15)
+					(bold yes)
 				)
 			)
 		)
@@ -1720,7 +1722,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "DF13C-2P-1.25V(21):HRS_DF13C-2P-1.25V(21)"
+	(footprint "Vault:HRS_DF13C-2P-1.25V(21)"
 		(layer "F.Cu")
 		(uuid "7bc87a46-4152-4758-bdf7-84096024c531")
 		(at 121.6641 149.36482)
@@ -1775,8 +1777,8 @@
 		(sheetfile "InhibitsNEW.kicad_sch")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -2.825 -1.69999)
-			(end -1.295 -1.69999)
+			(start -2.825 -1.7)
+			(end -1.295 -1.7)
 			(stroke
 				(width 0.127)
 				(type solid)
@@ -1786,7 +1788,7 @@
 		)
 		(fp_line
 			(start -2.825 -1.42)
-			(end -2.825 -1.69999)
+			(end -2.825 -1.7)
 			(stroke
 				(width 0.127)
 				(type solid)
@@ -1815,8 +1817,8 @@
 			(uuid "004b1a25-d92c-4b85-9be5-22e542d2fecf")
 		)
 		(fp_line
-			(start 1.295 -1.69999)
-			(end 2.825 -1.69999)
+			(start 1.295 -1.7)
+			(end 2.825 -1.7)
 			(stroke
 				(width 0.127)
 				(type solid)
@@ -1826,7 +1828,7 @@
 		)
 		(fp_line
 			(start 2.825 -1.42)
-			(end 2.825 -1.69999)
+			(end 2.825 -1.7)
 			(stroke
 				(width 0.127)
 				(type solid)
@@ -1845,8 +1847,8 @@
 			(uuid "2d003b72-47cb-43a7-9526-6a0b5d1cc864")
 		)
 		(fp_circle
-			(center -0.625 -4.34999)
-			(end -0.625 -4.44999)
+			(center -0.625 -4.35)
+			(end -0.625 -4.45)
 			(stroke
 				(width 0.2)
 				(type solid)
@@ -1866,7 +1868,7 @@
 			(uuid "b92db3a0-30cc-4814-9e85-3893cc95ee08")
 		)
 		(fp_line
-			(start -4.025 1.95001)
+			(start -4.025 1.95)
 			(end -4.025 -3.85)
 			(stroke
 				(width 0.05)
@@ -1876,8 +1878,8 @@
 			(uuid "28954b3a-ea82-4d92-893b-0c68d9b625d7")
 		)
 		(fp_line
-			(start -4.025 1.95001)
-			(end 4.025 1.95001)
+			(start -4.025 1.95)
+			(end 4.025 1.95)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -1886,7 +1888,7 @@
 			(uuid "8958382c-4b58-4e12-9c11-44e60e1971ae")
 		)
 		(fp_line
-			(start 4.025 1.95001)
+			(start 4.025 1.95)
 			(end 4.025 -3.85)
 			(stroke
 				(width 0.05)
@@ -1896,8 +1898,8 @@
 			(uuid "06e28f35-b1cb-49fc-9cf5-c326c7f2726c")
 		)
 		(fp_line
-			(start -2.825 -1.69999)
-			(end 2.825 -1.69999)
+			(start -2.825 -1.7)
+			(end 2.825 -1.7)
 			(stroke
 				(width 0.127)
 				(type solid)
@@ -1907,7 +1909,7 @@
 		)
 		(fp_line
 			(start -2.825 1.7)
-			(end -2.825 -1.69999)
+			(end -2.825 -1.7)
 			(stroke
 				(width 0.127)
 				(type solid)
@@ -1927,7 +1929,7 @@
 		)
 		(fp_line
 			(start 2.825 1.7)
-			(end 2.825 -1.69999)
+			(end 2.825 -1.7)
 			(stroke
 				(width 0.127)
 				(type solid)
@@ -1936,8 +1938,8 @@
 			(uuid "e1edb2c9-643f-4524-bd05-c59110b85790")
 		)
 		(fp_circle
-			(center -0.625 -4.34999)
-			(end -0.625 -4.44999)
+			(center -0.625 -4.35)
+			(end -0.625 -4.45)
 			(stroke
 				(width 0.2)
 				(type solid)
@@ -2051,12 +2053,12 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "DF13C-2P-1.25V(21):HRS_DF13C-2P-1.25V(21)"
+	(footprint "Vault:HRS_DF13C-2P-1.25V(21)"
 		(layer "F.Cu")
 		(uuid "8e628898-edd6-4216-a03f-8303855e8e12")
 		(at 175.4391 149.60166)
 		(property "Reference" "J1"
-			(at -1.74861 -5.65219 0)
+			(at -2.27371 -6.029198 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "b88d6583-5fb1-4f52-b54a-31f502ab863c")
@@ -2323,7 +2325,7 @@
 			)
 		)
 	)
-	(footprint "DF13C-2P-1.25V(21):HRS_DF13C-2P-1.25V(21)"
+	(footprint "Vault:HRS_DF13C-2P-1.25V(21)"
 		(layer "F.Cu")
 		(uuid "90109891-a2e0-40c1-9901-442681b4e066")
 		(at 165.8061 149.62294)
@@ -4699,12 +4701,12 @@
 			)
 		)
 	)
-	(footprint "SnapEDA_Library:RESC3225X60N"
+	(footprint "Vault:RESC3225X60N"
 		(layer "B.Cu")
 		(uuid "43a32a90-d9c4-43ef-8e82-9f3663440e88")
 		(at 160.52169 106.30422 90)
 		(property "Reference" "R1"
-			(at -0.45993 -2.252865 90)
+			(at -0.45993 -2.252865 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "01dbaa03-98e0-4fe3-b0e0-730066ed6427")
@@ -4717,7 +4719,7 @@
 			)
 		)
 		(property "Value" "CRCW1210900RFKTA"
-			(at 9.86412 -3.216402 270)
+			(at 9.86412 -3.216402 90)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(hide yes)
@@ -4731,7 +4733,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 90)
+			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cde94aee-2eaa-43c5-9c3c-6535ac8bfcfb")
@@ -4742,7 +4744,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 90)
+			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e5626bd3-1410-4d64-8361-4505eb9b4b8f")
@@ -4856,14 +4858,14 @@
 			(uuid "8906b822-26b5-4af7-8fbd-939f1c3ebfb5")
 		)
 		(pad "1" smd rect
-			(at -1.51501 0 90)
+			(at -1.51501 0 270)
 			(size 1.09 2.72)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net "NetR1_1")
 			(uuid "24e6e976-5646-4182-8baa-e356f0bfea8b")
 		)
 		(pad "2" smd rect
-			(at 1.515 0 90)
+			(at 1.515 0 270)
 			(size 1.09 2.72)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net "NetQ1_4")
@@ -6660,25 +6662,26 @@
 			)
 		)
 	)
-	(footprint "FQD13N06LTM:TO229P991X239-3N"
+	(footprint "Vault:TO229P991X239-3N"
 		(layer "B.Cu")
 		(uuid "675f0bbe-a41f-4a13-8951-f2e04db8a3dc")
 		(at 176.19049 79.94947 180)
 		(property "Reference" "Q2"
-			(at -4.512695 1.591265 90)
+			(at -4.512695 1.591265 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "facc6c61-3263-40c6-b4b4-4a6788d2ad9d")
 			(effects
 				(font
-					(size 1 1)
+					(size 1 0.8128)
 					(thickness 0.15)
+					(bold yes)
 				)
 				(justify mirror)
 			)
 		)
 		(property "Value" "FQD13N06LTM"
-			(at 3.540715 -9.642602 0)
+			(at 3.540715 -9.642602 180)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(hide yes)
@@ -6692,7 +6695,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 180)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "974a954b-ff46-4c28-8b82-ce4b37b110bb")
@@ -6703,7 +6706,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 180)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0aba85d5-7967-4b06-8736-30ca68c1d018")
@@ -6848,21 +6851,21 @@
 			(uuid "9f6d3cd9-8457-4b18-9dd6-bfc918991724")
 		)
 		(pad "1" smd rect
-			(at -2.30001 -6.25 180)
+			(at -2.30001 -6.25)
 			(size 1.4 3)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net "NetQ2_1")
 			(uuid "268c2cf9-72c1-4112-88d6-4951065dcf2b")
 		)
 		(pad "3" smd rect
-			(at 2.3 -6.25 180)
+			(at 2.3 -6.25)
 			(size 1.4 3)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net "NetQ2_3")
 			(uuid "99c4856c-f9e8-4672-93f1-87d634eeecc4")
 		)
 		(pad "4" smd rect
-			(at 0 0 180)
+			(at 0 0)
 			(size 6 6.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net "NetQ2_4")
@@ -10950,15 +10953,15 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "SnapEDA_Library:SOT23-8"
+	(footprint "Vault:SOT23-8"
 		(layer "B.Cu")
 		(uuid "f72c4a40-1985-4fea-9f87-7ead5a450050")
 		(at 129.52571 89.04293 90)
 		(property "Reference" "U2"
-			(at 2.59346 0.16478 0)
+			(at 2.59346 0.16478 180)
 			(unlocked yes)
 			(layer "B.SilkS")
-			(uuid "3075ce09-f848-462b-9f50-c8e58b1dc91d")
+			(uuid "5809e17c-3120-4b2d-9431-37b4b3de501f")
 			(effects
 				(font
 					(size 1 1)
@@ -10968,11 +10971,11 @@
 			)
 		)
 		(property "Value" "INA219"
-			(at 2.449785 -3.546592 270)
+			(at 2.449785 -3.546592 90)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "2d8f148b-ce87-45f6-9c30-0f5716a533f1")
+			(uuid "7c5b3938-5351-473e-9f31-f9bc4c1aad4d")
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -10982,10 +10985,10 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 90)
+			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8b12a117-00c5-411d-9f9a-f83a5528815f")
+			(uuid "d84b4abb-472e-4df9-a34c-4019208dceda")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10993,10 +10996,10 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 90)
+			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "640f576c-7fde-4489-ad36-1205426edad6")
+			(uuid "b0e7c0e7-95ec-4074-8c52-bc4cb9ec2d23")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11058,56 +11061,56 @@
 			(uuid "33ad28c4-b4a8-4f8f-a2d2-12bd10761c81")
 		)
 		(pad "1" smd rect
-			(at -0.975 -1.3 90)
+			(at -0.975 -1.3 270)
 			(size 0.4 1.2)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net "Pack+_Pos")
 			(uuid "dc4a54f5-3c64-4eb4-95ee-81036bc804e1")
 		)
 		(pad "2" smd rect
-			(at -0.32496 -1.3 90)
+			(at -0.32496 -1.3 270)
 			(size 0.4 1.2)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net "Pack-_Neg")
 			(uuid "a060e329-f753-4674-8f5e-ecaf1aee9f45")
 		)
 		(pad "3" smd rect
-			(at 0.32502 -1.3 90)
+			(at 0.32502 -1.3 270)
 			(size 0.4 1.2)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net "GND")
 			(uuid "196bb34c-ed83-4783-bd0d-f7f9963d911f")
 		)
 		(pad "4" smd rect
-			(at 0.97501 -1.3 90)
+			(at 0.97501 -1.3 270)
 			(size 0.4 1.2)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net "3V3_Secondary")
 			(uuid "aeb486c2-dfcc-4ea2-b7fe-cba8186f3e91")
 		)
 		(pad "5" smd rect
-			(at 0.97501 1.3 90)
+			(at 0.97501 1.3 270)
 			(size 0.4 1.2)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net "I2C Clock")
 			(uuid "21fee86b-47d1-4fdb-9a65-c92c8210597c")
 		)
 		(pad "6" smd rect
-			(at 0.32502 1.3 90)
+			(at 0.32502 1.3 270)
 			(size 0.4 1.2)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net "I2C Data")
 			(uuid "81d4dc8f-cb1e-4d74-b9f8-4fda66e0834a")
 		)
 		(pad "7" smd rect
-			(at -0.32496 1.3 90)
+			(at -0.32496 1.3 270)
 			(size 0.4 1.2)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net "I2C Data")
 			(uuid "aaff2d5d-5ae7-4912-9f9f-973fb9368b79")
 		)
 		(pad "8" smd rect
-			(at -0.975 1.3 90)
+			(at -0.975 1.3 270)
 			(size 0.4 1.2)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net "3V3_Secondary")
