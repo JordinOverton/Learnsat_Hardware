@@ -50,7 +50,23 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "border_display_style": 2,
+          "border_hatch_pitch": 0.5,
+          "corner_radius": 0.0,
+          "corner_smoothing": 0,
+          "fill_mode": 0,
+          "hatch_gap": 1.5,
+          "hatch_orientation": 0.0,
+          "hatch_smoothing_level": 0,
+          "hatch_smoothing_value": 0.1,
+          "hatch_thickness": 1.0,
+          "min_clearance": 0.5,
+          "min_island_area": 10.0,
+          "min_thickness": 0.25,
+          "pad_connection": 1,
+          "remove_islands": 0,
+          "thermal_relief_gap": 0.5,
+          "thermal_relief_spoke_width": 0.5
         }
       },
       "diff_pair_dimensions": [],
@@ -1816,29 +1832,13 @@
         "uuid": "31302da5-a970-4b2b-aa05-afcd06cb9d09"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR131,U10",
     "variants": []
   },
   "sheets": [
     [
-      "cdd253ed-0c43-47cc-b82d-df1603e1137a",
-      "12V SECONDARY"
-    ],
-    [
-      "2029a850-3e48-491b-a9aa-1537ac8442d4",
-      "12 PRIMARY"
-    ],
-    [
-      "0fb1b4e6-2835-46e5-a731-d5a5d61ae98c",
-      "12V BOOST"
-    ],
-    [
       "9cfff8c1-41d5-443e-a4f1-1edb2a27fa2d",
       "STM32"
-    ],
-    [
-      "9724113b-8f83-448f-99ae-c96db2fb53ca",
-      "TVS_DIODES"
     ],
     [
       "55f06696-b2d9-4c25-98ea-711c3045af0d",
