@@ -1,0 +1,64 @@
+** Drc report for BoBa.kicad_pcb **
+** Created on 2026-10-28T13:22:57 **
+** Report includes: Errors, Warnings **
+
+** Found 15 DRC violations **
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(152.9061 mm, 141.3185 mm): Zone [<no net>] on Bottom Layer, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(112.9736 mm, 71.8777 mm): Zone [Pack+_Pos] on Bottom Layer, priority 2
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(116.3123 mm, 141.4737 mm): Zone [Pack+_Neg] on Bottom Layer, priority 1
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(153.8405 mm, 71.9995 mm): Zone [NetR7_1] on Bottom Layer, priority 3
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(153.8405 mm, 71.9995 mm): Zone [NetR7_1] on Bottom Layer, priority 3
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(147.1155 mm, 68.7027 mm): Footprint H1
+    @(147.1315 mm, 63.3687 mm): Footprint H2
+[padstack]: Padstack is questionable (PTH pad hole leaves no copper)
+    Local override; warning
+    @(106.5511 mm, 134.9536 mm): PTH pad 10 [<no net>] of 
+[padstack]: Padstack is questionable (PTH pad hole leaves no copper)
+    Local override; warning
+    @(106.5511 mm, 78.7357 mm): PTH pad 3 [<no net>] of 
+[padstack]: Padstack is questionable (PTH pad hole leaves no copper)
+    Local override; warning
+    @(185.9519 mm, 78.7357 mm): PTH pad 6 [<no net>] of 
+[padstack]: Padstack is questionable (PTH pad hole leaves no copper)
+    Local override; warning
+    @(190.4511 mm, 134.9536 mm): PTH pad 9 [<no net>] of 
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(126.4761 mm, 102.7467 mm): Pad 13 [GND] of U4_IN-A on Bottom Layer
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(165.6061 mm, 107.4377 mm): Pad 13 [GND] of U1 on Bottom Layer
+[lib_footprint_issues]: The current configuration does not include the footprint library 'PE1206DRM470R025L'
+    Local override; warning
+    @(129.6698 mm, 94.7680 mm): Footprint R7
+[lib_footprint_issues]: The current configuration does not include the footprint library 'PE1206DRM470R025L'
+    Local override; warning
+    @(165.3494 mm, 100.2906 mm): Footprint RS1
+[lib_footprint_issues]: The current configuration does not include the footprint library 'PE1206DRM470R025L'
+    Local override; warning
+    @(121.2836 mm, 89.5439 mm): Footprint RS2
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
