@@ -1612,7 +1612,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MPD-BA2032SM_V"
+		(property "Footprint" "Vault:MPD-BA2032SM_V"
 			(at 173.99 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -1886,7 +1886,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "RES_ERJ-1GJF1003C"
+		(property "Footprint" "Vault:FP-RMCF0603-IPC_B"
 			(at 113.03 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -2404,7 +2404,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "RESC2012X62N"
+		(property "Footprint" "Vault:FP-RMCF0603-IPC_B"
 			(at 148.59 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -2667,7 +2667,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "RES_ERJ-1GJF1003C"
+		(property "Footprint" "Vault:FP-RMCF0603-IPC_B"
 			(at 125.73 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -2855,7 +2855,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "XTAL_ECS-.327-12.5-34RR-TR"
+		(property "Footprint" "Vault:XTAL_ECS-.327-12.5-34RR-TR"
 			(at 130.81 110.49 0)
 			(hide yes)
 			(show_name no)

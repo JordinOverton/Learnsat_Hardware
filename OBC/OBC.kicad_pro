@@ -79,7 +79,15 @@
       "drc_exclusions": [
         [
           "courtyards_overlap|182716120|65728660|9ba55e92-ab47-4dcf-882f-eda2cd0004c0|fb34e863-ff29-4a29-b618-92abbf7c98ef",
-          "H1/H2 intentionally stacked headers."
+          "H1/H2 intentionally stacked headers"
+        ],
+        [
+          "lib_footprint_mismatch|130073585|99143660|39103177-6a2b-4ff4-b8ec-50016097aa28|00000000-0000-0000-0000-000000000000",
+          "pads match library, only paste rectangles differ from rotation"
+        ],
+        [
+          "lib_footprint_mismatch|149096115|68423655|9ba55e92-ab47-4dcf-882f-eda2cd0004c0|00000000-0000-0000-0000-000000000000",
+          "H1 pads match library, only silkscreen/fab lines differ"
         ]
       ],
       "meta": {

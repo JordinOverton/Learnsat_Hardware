@@ -3067,7 +3067,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMTC-SSQ-126-22-X-D"
+		(property "Footprint" "Vault:SMTC-SSQ-126-22-X-D"
 			(at 107.95 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -3810,7 +3810,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMTC-SSQ-126-22-X-D"
+		(property "Footprint" "Vault:SMTC-SSQ-126-22-X-D"
 			(at 179.07 130.81 0)
 			(hide yes)
 			(show_name no)

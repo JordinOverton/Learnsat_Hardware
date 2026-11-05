@@ -10343,7 +10343,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "RESC1608X55X25ML10T15"
+		(property "Footprint" "Vault:RESC1608X55X25ML10T15"
 			(at 189.23 69.85 0)
 			(hide yes)
 			(show_name no)
