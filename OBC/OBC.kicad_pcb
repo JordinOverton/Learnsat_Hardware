@@ -336,7 +336,7 @@
 			(at 0.254 -2.696148 270)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "cb9ad0a3-d809-43e7-ae54-32ccdec6ac71")
+			(uuid "cb9a08cd-62e4-4a3d-baaf-3ef9d096c0e8")
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -349,7 +349,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "9ff76b64-e73d-4a4e-87f9-073c80f8ef49")
+			(uuid "a582e9e8-9b4d-49eb-ba25-8b173abb8016")
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -361,7 +361,7 @@
 			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ca84d3b6-255e-468e-b2f1-16bd01759879")
+			(uuid "53788679-0889-4b58-a20e-a95776f10569")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -372,14 +372,22 @@
 			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dbb42934-bc28-46a6-9cc9-206821da8788")
+			(uuid "d5b8ca40-6450-4afc-932a-22af95b8e2c8")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(sheetfile ".kicad_sch")
+		(property ki_fp_filters "*RES_ERJ-1GJF1003C*")
+		(sheetname "/RTC/")
+		(sheetfile "RTC.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.20411 0.87911)
@@ -3144,11 +3152,11 @@
 		(layer "F.Cu")
 		(uuid "3cd0cdc5-e0d5-4fd1-b919-235b55897464")
 		(at 163.65361 138.49866)
-		(property "Reference" "BT"
+		(property "Reference" "BT2"
 			(at -4.496 -9.696148 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "3e58a6c1-45a9-4d21-9790-17e784a918c1")
+			(uuid "3c45725e-b6f8-486f-93f5-7f96cd0aac01")
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -3161,7 +3169,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "b54debc0-f697-4443-a8da-f97f3154d7b2")
+			(uuid "ac5e35cf-287a-4c37-b25f-8994ae0efaf0")
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -3173,7 +3181,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "26d50fe8-75be-4bda-9cb1-62597a12950c")
+			(uuid "89716422-8fda-47ff-84a0-93b18bc654a2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3184,15 +3192,22 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3065ada7-98b4-45be-b1d9-96fa59ff10bd")
+			(uuid "8ddfe868-75fa-48fa-b583-86718d4f7e6e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(sheetname "OCB")
-		(sheetfile "OCB.kicad_sch")
+		(property ki_fp_filters "*MPD-BA2032SM_V*")
+		(sheetname "/RTC/")
+		(sheetfile "RTC.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -17.45002 0.00001)
@@ -3959,7 +3974,7 @@
 		(property "Reference" "C1"
 			(at -0.005 1.2 0)
 			(layer "F.SilkS")
-			(uuid "86366d66-7793-4226-b251-c4ac482aedb8")
+			(uuid "a0e50620-433b-4126-8426-974ab5fbad2d")
 			(effects
 				(font
 					(size 1 1)
@@ -3971,7 +3986,7 @@
 			(at 0.895 1.16 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e8969e3e-a18b-4aad-b779-351a99145b6c")
+			(uuid "50c133c1-9c09-4946-a3fb-3d02c274a119")
 			(effects
 				(font
 					(size 1 1)
@@ -3983,7 +3998,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "554a4b5d-a1f7-4c47-89e2-a5e97e6bc643")
+			(uuid "baf429c0-896f-4b34-9377-e628a8fb2aba")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3994,7 +4009,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "257c06a7-32ba-49f1-b0dd-4cb3dbbd1756")
+			(uuid "732f8ba7-c4aa-4723-b118-1e5c1cfd594c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6470,7 +6485,7 @@
 			(at 0.45509 -2.196138 90)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "9ba17f5d-3f02-4f37-b896-fbd1cfc1929b")
+			(uuid "32cc9013-ec35-4c54-a182-bf2337281a88")
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -6483,7 +6498,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "083953c9-e1b0-47ee-80b5-8de3b56489ca")
+			(uuid "8a443d15-ad5f-418a-9553-ab47e3cb8c92")
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -6495,7 +6510,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "462cb94d-2c11-40eb-b27e-6b0831d29609")
+			(uuid "01c2e05e-61a0-4279-8dea-3de897145479")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6506,14 +6521,22 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b6313aa8-b578-4501-9b94-3bc506e3f5fc")
+			(uuid "c51f820f-74a3-4ec9-bd2e-3cc529fdaa2f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(sheetfile ".kicad_sch")
+		(property ki_fp_filters "*RESC2012X62N*")
+		(sheetname "/RTC/")
+		(sheetfile "RTC.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.20411 -0.87911)
@@ -6836,11 +6859,11 @@
 		(layer "F.Cu")
 		(uuid "9097e5a2-4397-4371-ad75-4d390909903e")
 		(at 143.1261 141.03866 90)
-		(property "Reference" "Y"
+		(property "Reference" "Y2"
 			(at -1.316148 2.346005 180)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "439e5abc-8c5f-4773-9665-e15c4f619e5f")
+			(uuid "7242751c-59fe-4ce5-b784-1dc5cff8344c")
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -6853,7 +6876,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "a77c1a53-1c19-4220-9a65-cb99840adeeb")
+			(uuid "2a2afa1e-a1c9-4165-907c-7c0a94e8fef9")
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -6865,7 +6888,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "aa5096aa-06f5-49b6-8b78-0d7ac346b27b")
+			(uuid "76b91502-8324-474c-b2eb-3805555eae59")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6876,15 +6899,22 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c2dc6c9c-af0b-45c3-a639-63cc07723f04")
+			(uuid "cdbe5ac9-318d-4b1a-a1d3-8b7585a0efe2")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(sheetname "OCB")
-		(sheetfile "OCB.kicad_sch")
+		(property ki_fp_filters "*XTAL_ECS-.327-12.5-34RR-TR*")
+		(sheetname "/RTC/")
+		(sheetfile "RTC.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.43999 -0.74999)
@@ -7262,11 +7292,11 @@
 		(layer "F.Cu")
 		(uuid "9ba55e92-ab47-4dcf-882f-eda2cd0004c0")
 		(at 117.3461 67.15366)
-		(property "Reference" "H1"
+		(property "Reference" "H3"
 			(at -3.40561 -0.03419 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "5168fcb5-afe5-4141-99de-7725dd30d8a9")
+			(uuid "cdfcb431-c762-4791-baa8-f6c48337d8cb")
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -7279,7 +7309,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "eb3ba903-6dea-4bfe-b4e0-9a62cc6ba0d7")
+			(uuid "d4dfef17-9b35-4043-971a-ab0a4b8c9eab")
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -7291,7 +7321,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8cc01dbd-1c2f-4e71-a9c0-8e91f5a708f1")
+			(uuid "b92ce0e8-aed1-4eae-87a2-309663f233e1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7302,15 +7332,26 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "37694246-999a-40d2-8a4b-4f75b65bff71")
+			(uuid "72936942-b1af-47e4-934c-7ac366c5a83e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(sheetname "OBC_2")
-		(sheetfile "OBC_2.kicad_sch")
+		(property ki_fp_filters "*SMTC-SSQ-126-22-X-D*")
+		(sheetname "/HEADERS/")
+		(sheetfile "HEADERS.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "4" "6" "8" "10" "12" "14" "16" "18" "20" "22" "24" "26" "28"
+					"30" "32" "34" "36" "38" "40" "42" "44" "46" "48" "50" "52" "1" "3"
+					"5" "7" "9" "11" "13" "15" "17" "19" "21" "23" "25" "27" "29" "31" "33"
+					"35" "37" "39" "41" "43" "45" "47" "49" "51"
+				)
+			)
+		)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.64999 -1.11001)
@@ -8871,7 +8912,7 @@
 			(at 0.254 -2.226148 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "59c1e137-6348-4513-a35b-a35ca195323e")
+			(uuid "54977087-a76b-483c-b434-964168343516")
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -8884,7 +8925,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "b4813e25-79a1-441b-ad74-a9c7fe21ae53")
+			(uuid "12d20bba-7e83-4279-9022-d8c62863926e")
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -8896,7 +8937,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7d1d62f0-43ab-4c24-8e48-8f56c441bcfa")
+			(uuid "386c5d41-8f34-40d9-824c-f31f59da51da")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8907,14 +8948,22 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "030463af-5874-4db1-b508-90222766d2ec")
+			(uuid "43dbefdd-6893-4c9a-aed5-a606f780f43c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(sheetfile ".kicad_sch")
+		(property ki_fp_filters "*RES_ERJ-1GJF1003C*")
+		(sheetname "/RTC/")
+		(sheetfile "RTC.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.20411 -0.87911)
@@ -9345,11 +9394,11 @@
 		(layer "F.Cu")
 		(uuid "fb34e863-ff29-4a29-b618-92abbf7c98ef")
 		(at 117.3461 62.07366)
-		(property "Reference" "H2"
+		(property "Reference" "H4"
 			(at -3.40561 2.86581 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "ba0b56a8-b7b1-44ba-b805-5b618edf7e80")
+			(uuid "8cffb060-043c-4bd9-a635-08495aab6d17")
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -9362,7 +9411,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "92a65356-f69b-4a6e-bbd8-fe7536ed78f4")
+			(uuid "68371ff3-01be-4171-873e-053c7824346e")
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -9374,7 +9423,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e59e70c6-774a-475d-9c8e-70d40cec359c")
+			(uuid "1c82331e-b103-43b7-a399-213407c96524")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9385,15 +9434,26 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c05fa1fd-25f3-414b-bc44-7183e47b00d8")
+			(uuid "d796ffc3-8588-4857-95ae-675c507a8fa0")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(sheetname "OBC_2")
-		(sheetfile "OBC_2.kicad_sch")
+		(property ki_fp_filters "*SMTC-SSQ-126-22-X-D*")
+		(sheetname "/HEADERS/")
+		(sheetfile "HEADERS.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "4" "6" "8" "10" "12" "14" "16" "18" "20" "22" "24" "26" "28"
+					"30" "32" "34" "36" "38" "40" "42" "44" "46" "48" "50" "52" "1" "3"
+					"5" "7" "9" "11" "13" "15" "17" "19" "21" "23" "25" "27" "29" "31" "33"
+					"35" "37" "39" "41" "43" "45" "47" "49" "51"
+				)
+			)
+		)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.64999 -1.20501)
@@ -15824,12 +15884,12 @@
 		(uuid "d2f6c2be-4c8c-4067-b3f6-3871928bd7fe")
 	)
 	(segment
-		(start 147.82609 64.61368)
-		(end 147.82609 62.07368)
+		(start 168.14609 64.61368)
+		(end 170.68609 64.61368)
 		(width 0.19)
 		(layer "B.Cu")
-		(net "5V_Secondary")
-		(uuid "87733b64-fc63-4e2b-85c0-5a318b61a3ac")
+		(net "VBATT_Secondary")
+		(uuid "9e114d0f-c5a3-4340-bb61-12733374cf23")
 	)
 	(segment
 		(start 150.36609 64.61368)
@@ -15840,12 +15900,12 @@
 		(uuid "7b02a90a-cf54-417f-8fae-ee23eeb50ebf")
 	)
 	(segment
-		(start 168.14609 64.61368)
-		(end 170.68609 64.61368)
+		(start 147.82609 64.61368)
+		(end 147.82609 62.07368)
 		(width 0.19)
 		(layer "B.Cu")
-		(net "VBATT_Secondary")
-		(uuid "9e114d0f-c5a3-4340-bb61-12733374cf23")
+		(net "5V_Secondary")
+		(uuid "87733b64-fc63-4e2b-85c0-5a318b61a3ac")
 	)
 	(zone
 		(net "GND")

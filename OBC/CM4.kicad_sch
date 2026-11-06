@@ -10318,7 +10318,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3fe0286a-520a-4086-bbdc-4e47cc52bed9")
 		(property "Reference" "R8"
 			(at 191.516 68.834 0)
