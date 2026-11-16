@@ -1,0 +1,17 @@
+# --- Private: owner only (Cole Vaughn). Never commit. ---
+spec-notes/
+CLAUDE.md
+documentation/source/
+documentation/RaMo_BOM.pdf
+
+# --- Visible to the team ---
+# documentation/RaMo.pdf, documentation/datasheets/, schematic/
+
+# --- Local junk ---
+.DS_Store
+schematic/*.kicad_prl
+schematic/*.lck
+schematic/~*
+schematic/_autosave-*
+schematic/*-backups/
+schematic/fp-info-cache
