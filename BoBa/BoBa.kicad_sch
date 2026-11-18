@@ -5920,8 +5920,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "01b0d9d6-8671-4dec-9466-f114191545ee")
-		(property "Reference" "FB16"
-			(at 132.334 251.714 90)
+		(property "Reference" "FB4"
+			(at 132.334 250.952 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6393,7 +6393,7 @@
 		(instances
 			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da"
-					(reference "FB16")
+					(reference "FB4")
 					(unit 1)
 				)
 			)
@@ -6410,8 +6410,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "02329012-0e1b-4108-9321-9aee1e0f513a")
-		(property "Reference" "R43"
-			(at 145.796 230.378 90)
+		(property "Reference" "R8"
+			(at 145.796 229.108 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6594,7 +6594,7 @@
 		(instances
 			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da"
-					(reference "R43")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -6611,8 +6611,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "088480e7-4d87-4caf-8424-b88f1e3bf8af")
-		(property "Reference" "FB13"
-			(at 132.334 228.854 90)
+		(property "Reference" "FB1"
+			(at 132.588 227.838 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7084,7 +7084,7 @@
 		(instances
 			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da"
-					(reference "FB13")
+					(reference "FB1")
 					(unit 1)
 				)
 			)
@@ -7101,8 +7101,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "12dd1305-4164-4a09-a494-32a42ae88b5e")
-		(property "Reference" "RS7"
-			(at 72.136 122.301 90)
+		(property "Reference" "RS2"
+			(at 73.66 120.65 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7237,7 +7237,7 @@
 		(instances
 			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da"
-					(reference "RS7")
+					(reference "RS2")
 					(unit 1)
 				)
 			)
@@ -7328,7 +7328,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "23ebe544-21dd-4c95-90cd-c510a8ff7711")
-		(property "Reference" "Q7"
+		(property "Reference" "Q1"
 			(at 267.716 56.896 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7696,7 +7696,7 @@
 		(instances
 			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da"
-					(reference "Q7")
+					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -7713,7 +7713,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "32e488c0-ca57-4c41-b9a8-5b437f67c301")
-		(property "Reference" "C4"
+		(property "Reference" "C1"
 			(at 364.744 140.462 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8065,7 +8065,7 @@
 		(instances
 			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da"
-					(reference "C4")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -8082,8 +8082,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "79e3fb68-5256-4965-aaa7-4888701f548a")
-		(property "Reference" "R45"
-			(at 145.796 245.618 90)
+		(property "Reference" "R10"
+			(at 145.796 244.094 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8266,7 +8266,7 @@
 		(instances
 			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da"
-					(reference "R45")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -8284,8 +8284,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8252223e-e0ef-4728-b3e3-2bc10486c53a")
-		(property "Reference" "U25"
-			(at 93.049 96.52 0)
+		(property "Reference" "U2"
+			(at 92.964 90.932 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8296,7 +8296,7 @@
 			)
 		)
 		(property "Value" "INA219"
-			(at 93.049 99.06 0)
+			(at 92.964 92.964 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8438,7 +8438,7 @@
 		(instances
 			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da"
-					(reference "U25")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -8529,8 +8529,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8ef9a23f-261f-4fad-8558-4629580eb96c")
-		(property "Reference" "RS8"
-			(at 298.196 81.661 90)
+		(property "Reference" "RS1"
+			(at 301.498 79.248 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8665,7 +8665,7 @@
 		(instances
 			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da"
-					(reference "RS8")
+					(reference "RS1")
 					(unit 1)
 				)
 			)
@@ -8763,8 +8763,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9cdadcad-65df-472d-ace5-40e7f88ee25f")
-		(property "Reference" "R44"
-			(at 145.796 237.998 90)
+		(property "Reference" "R9"
+			(at 145.796 236.474 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8947,7 +8947,7 @@
 		(instances
 			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da"
-					(reference "R44")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -8964,8 +8964,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a1e6db78-bfcc-49e7-9c99-83352d8cc13e")
-		(property "Reference" "U26"
-			(at 166.37 152.4 90)
+		(property "Reference" "U5"
+			(at 175.26 161.29 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9454,7 +9454,7 @@
 		(instances
 			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da"
-					(reference "U26")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -9471,8 +9471,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "af271709-02bc-4ad0-b227-be51469513db")
-		(property "Reference" "FB14"
-			(at 132.334 236.474 90)
+		(property "Reference" "FB2"
+			(at 132.588 235.966 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9944,7 +9944,7 @@
 		(instances
 			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da"
-					(reference "FB14")
+					(reference "FB2")
 					(unit 1)
 				)
 			)
@@ -10035,7 +10035,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c006a76a-de7a-43c3-b107-1b0cdce37402")
-		(property "Reference" "R48"
+		(property "Reference" "R2"
 			(at 287.274 108.204 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10387,7 +10387,7 @@
 		(instances
 			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da"
-					(reference "R48")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -10404,7 +10404,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c87b9288-ffc5-473f-9c2c-27ef90262b9d")
-		(property "Reference" "R47"
+		(property "Reference" "R1"
 			(at 287.909 88.646 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10540,7 +10540,7 @@
 		(instances
 			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da"
-					(reference "R47")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -10557,8 +10557,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ce1dbfda-409e-4d1c-b7b1-cdcddc9d4fe4")
-		(property "Reference" "U27"
-			(at 298.45 35.56 90)
+		(property "Reference" "U3"
+			(at 306.324 44.704 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11047,7 +11047,7 @@
 		(instances
 			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da"
-					(reference "U27")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -11064,7 +11064,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cfba9450-022c-4dee-8362-6adee67985a0")
-		(property "Reference" "R42"
+		(property "Reference" "R7"
 			(at 132.969 175.006 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11200,7 +11200,7 @@
 		(instances
 			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da"
-					(reference "R42")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -11218,7 +11218,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d06529f4-7128-44a8-823b-5e1a85001791")
-		(property "Reference" "R49"
+		(property "Reference" "R3"
 			(at 287.274 125.984 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11570,7 +11570,7 @@
 		(instances
 			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da"
-					(reference "R49")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -11587,8 +11587,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d2285ce0-2c38-4161-8aef-c0f6826bf6af")
-		(property "Reference" "Q8"
-			(at 341.376 56.134 0)
+		(property "Reference" "Q2"
+			(at 344.678 61.468 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11726,7 +11726,7 @@
 		(instances
 			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da"
-					(reference "Q8")
+					(reference "Q2")
 					(unit 1)
 				)
 			)
@@ -11743,8 +11743,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d4c1d4e2-0466-4071-ae76-630f9e3bb786")
-		(property "Reference" "FB15"
-			(at 132.334 244.094 90)
+		(property "Reference" "FB3"
+			(at 132.334 243.078 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12216,7 +12216,7 @@
 		(instances
 			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da"
-					(reference "FB15")
+					(reference "FB3")
 					(unit 1)
 				)
 			)
@@ -12233,7 +12233,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d77a619b-fe7c-4c83-afb7-598b60523f63")
-		(property "Reference" "R50"
+		(property "Reference" "R4"
 			(at 286.766 141.986 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12417,7 +12417,7 @@
 		(instances
 			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da"
-					(reference "R50")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -12509,7 +12509,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dd2cdead-72b8-45f8-ba90-946a0c07a351")
-		(property "Reference" "R51"
+		(property "Reference" "R5"
 			(at 350.774 75.184 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12921,7 +12921,7 @@
 		(instances
 			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da"
-					(reference "R51")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -12938,8 +12938,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e1077e84-8e1b-460e-b432-dc4f3cb6ad9a")
-		(property "Reference" "R46"
-			(at 145.796 253.238 90)
+		(property "Reference" "R11"
+			(at 145.796 251.714 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13122,7 +13122,7 @@
 		(instances
 			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da"
-					(reference "R46")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -13361,8 +13361,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f8b862bd-f5b5-41e1-8898-d5ce8cd457c3")
-		(property "Reference" "U28"
-			(at 300.99 99.06 90)
+		(property "Reference" "U1"
+			(at 314.198 119.634 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13590,7 +13590,7 @@
 		(instances
 			(project "BoBa"
 				(path "/ffd05940-f180-4d71-86aa-98b5fd06b3da"
-					(reference "U28")
+					(reference "U1")
 					(unit 1)
 				)
 			)
