@@ -1894,7 +1894,7 @@
 	)
 	(text "VRB 3V3 RAILS"
 		(exclude_from_sim no)
-		(at 172.72 195.58 0)
+		(at 172.72 173.99 0)
 		(effects
 			(font
 				(size 1.778 1.778)
@@ -1905,7 +1905,7 @@
 	)
 	(text "10uH"
 		(exclude_from_sim no)
-		(at 127 139.7 0)
+		(at 127 118.11 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1915,31 +1915,31 @@
 		(uuid "dfdd64f7-aaf1-4749-bcbd-a5aa85571c3b")
 	)
 	(junction
-		(at 142.24 160.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1afa1f75-307c-4c8c-8a1f-ae20ad9f7c12")
-	)
-	(junction
-		(at 111.76 119.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "232aa3f1-fdf8-4866-8be3-5b55f68a7ab3")
-	)
-	(junction
-		(at 111.76 137.16)
+		(at 111.76 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2a3ea750-3905-4e0a-83d3-d2dc70bb5acf")
 	)
 	(junction
-		(at 53.34 132.08)
+		(at 53.34 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "3f948ccb-f807-4d17-89bd-40106329edf4")
+		(uuid "3b127080-6fa4-4ecb-aba5-64ec1e642ce9")
 	)
 	(junction
-		(at 111.76 40.64)
+		(at 53.34 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "42334e40-41b3-435e-9cd7-6d49ec1bfa89")
+	)
+	(junction
+		(at 142.24 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "43163db0-384a-4872-8e30-78948ea45161")
+	)
+	(junction
+		(at 111.76 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4a8548e4-0495-4d19-a59e-d0a3e0bfdb8e")
@@ -1951,13 +1951,25 @@
 		(uuid "5a93e5ec-f613-4883-9e5e-f45bd48fb2ea")
 	)
 	(junction
+		(at 111.76 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "612ef838-cd84-4bae-b842-7ab4a0e93498")
+	)
+	(junction
 		(at 111.76 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "69413e06-cce4-4408-acb2-fcd0cc63a9d4")
 	)
 	(junction
-		(at 187.96 137.16)
+		(at 142.24 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "80bd79b5-f0a6-454f-be80-04bed224ea47")
+	)
+	(junction
+		(at 187.96 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "87d5cbe5-48b5-46b1-a422-1366c957e728")
@@ -1969,16 +1981,10 @@
 		(uuid "9581c559-6f1a-4e31-9406-0ddb55482729")
 	)
 	(junction
-		(at 142.24 81.28)
+		(at 53.34 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "993fb23a-ac7d-4d77-8ee6-eb6daa8f3af0")
-	)
-	(junction
-		(at 53.34 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a626dd84-2d8b-48c4-92a2-0e3006076845")
+		(uuid "aa51b851-3be6-4f9c-a80a-8566fc526263")
 	)
 	(junction
 		(at 152.4 58.42)
@@ -1987,31 +1993,31 @@
 		(uuid "cc5154ae-3f5a-44ae-8f81-f78fb7652ad1")
 	)
 	(junction
-		(at 144.78 137.16)
+		(at 144.78 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d101962f-f731-480a-ba72-bc90f1b2f10b")
 	)
 	(junction
-		(at 53.34 58.42)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d679e9bb-968b-4c22-bb1d-b8650c466a90")
-	)
-	(junction
-		(at 152.4 137.16)
+		(at 152.4 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dd226de8-1085-4821-9687-175caf4069f2")
 	)
 	(junction
-		(at 53.34 137.16)
+		(at 116.84 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f1c0eec1-1bbe-4aff-85c3-edde3a25b8c8")
+		(uuid "e28e538d-3376-49d3-9228-207f5244102e")
 	)
 	(junction
-		(at 142.24 137.16)
+		(at 53.34 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e708eb95-c202-4fe5-9416-69121317c69b")
+	)
+	(junction
+		(at 142.24 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f78225b2-8711-4dd0-92c3-9c7741da66cf")
@@ -2028,7 +2034,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 137.16) (xy 187.96 137.16)
+			(xy 182.88 115.57) (xy 187.96 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2058,7 +2064,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 132.08) (xy 96.52 119.38)
+			(xy 96.52 110.49) (xy 96.52 101.6)
 		)
 		(stroke
 			(width 0)
@@ -2078,7 +2084,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 132.08) (xy 66.04 132.08)
+			(xy 53.34 110.49) (xy 66.04 110.49)
 		)
 		(stroke
 			(width 0)
@@ -2088,17 +2094,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 177.8) (xy 142.24 170.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "164884ea-e6a6-4747-b0a3-fc660d86213c")
-	)
-	(wire
-		(pts
-			(xy 152.4 177.8) (xy 152.4 154.94)
+			(xy 152.4 137.16) (xy 152.4 133.35)
 		)
 		(stroke
 			(width 0)
@@ -2118,7 +2114,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 137.16) (xy 195.58 137.16)
+			(xy 187.96 115.57) (xy 195.58 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2128,7 +2124,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 139.7) (xy 116.84 139.7)
+			(xy 111.76 118.11) (xy 116.84 118.11)
 		)
 		(stroke
 			(width 0)
@@ -2138,7 +2134,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 142.24) (xy 101.6 160.02)
+			(xy 101.6 120.65) (xy 101.6 130.81)
 		)
 		(stroke
 			(width 0)
@@ -2148,7 +2144,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 99.06) (xy 53.34 83.82)
+			(xy 53.34 76.2) (xy 53.34 71.12)
 		)
 		(stroke
 			(width 0)
@@ -2158,33 +2154,13 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 124.46) (xy 111.76 119.38)
+			(xy 111.76 105.41) (xy 111.76 101.6)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "2fa725fc-62d3-4542-8249-0e18d8871047")
-	)
-	(wire
-		(pts
-			(xy 81.28 152.4) (xy 81.28 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "311c7e77-797c-4275-a504-65fd7085a1ae")
-	)
-	(wire
-		(pts
-			(xy 142.24 160.02) (xy 142.24 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "31fd41e0-f717-40c2-b923-e203c7739de0")
 	)
 	(wire
 		(pts
@@ -2198,6 +2174,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 76.2) (xy 142.24 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36b97381-06ea-48b5-991a-639f14779749")
+	)
+	(wire
+		(pts
 			(xy 152.4 68.58) (xy 152.4 58.42)
 		)
 		(stroke
@@ -2208,7 +2194,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 53.34) (xy 53.34 53.34)
+			(xy 46.99 53.34) (xy 53.34 53.34)
 		)
 		(stroke
 			(width 0)
@@ -2228,7 +2214,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 137.16) (xy 111.76 129.54)
+			(xy 111.76 115.57) (xy 111.76 110.49)
 		)
 		(stroke
 			(width 0)
@@ -2238,7 +2224,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 58.42) (xy 111.76 50.8)
+			(xy 111.76 58.42) (xy 111.76 53.34)
 		)
 		(stroke
 			(width 0)
@@ -2248,7 +2234,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 137.16) (xy 144.78 137.16)
+			(xy 142.24 115.57) (xy 144.78 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2258,7 +2244,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 99.06) (xy 152.4 76.2)
+			(xy 152.4 80.01) (xy 152.4 76.2)
 		)
 		(stroke
 			(width 0)
@@ -2268,7 +2254,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 142.24) (xy 101.6 142.24)
+			(xy 96.52 120.65) (xy 101.6 120.65)
 		)
 		(stroke
 			(width 0)
@@ -2278,7 +2264,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 119.38) (xy 111.76 119.38)
+			(xy 96.52 101.6) (xy 111.76 101.6)
 		)
 		(stroke
 			(width 0)
@@ -2288,7 +2274,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 119.38) (xy 144.78 137.16)
+			(xy 144.78 101.6) (xy 144.78 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2298,7 +2284,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 53.34) (xy 96.52 40.64)
+			(xy 96.52 53.34) (xy 96.52 43.18)
 		)
 		(stroke
 			(width 0)
@@ -2308,7 +2294,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 63.5) (xy 101.6 81.28)
+			(xy 101.6 63.5) (xy 101.6 76.2)
 		)
 		(stroke
 			(width 0)
@@ -2318,7 +2304,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 137.16) (xy 167.64 137.16)
+			(xy 152.4 115.57) (xy 167.64 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2328,17 +2314,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 81.28) (xy 142.24 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "70d10d3c-814a-4f43-b745-db3a6d3c106b")
-	)
-	(wire
-		(pts
-			(xy 96.52 40.64) (xy 111.76 40.64)
+			(xy 96.52 43.18) (xy 111.76 43.18)
 		)
 		(stroke
 			(width 0)
@@ -2348,7 +2324,17 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 154.94) (xy 116.84 177.8)
+			(xy 142.24 130.81) (xy 142.24 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74216d97-e1e3-4321-9c9b-76c85b683bdf")
+	)
+	(wire
+		(pts
+			(xy 116.84 133.35) (xy 116.84 137.16)
 		)
 		(stroke
 			(width 0)
@@ -2358,7 +2344,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 139.7) (xy 111.76 137.16)
+			(xy 111.76 118.11) (xy 111.76 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2368,7 +2354,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 45.72) (xy 111.76 40.64)
+			(xy 111.76 48.26) (xy 111.76 43.18)
 		)
 		(stroke
 			(width 0)
@@ -2378,7 +2364,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 132.08) (xy 53.34 137.16)
+			(xy 53.34 110.49) (xy 53.34 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2388,7 +2374,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 177.8) (xy 53.34 160.02)
+			(xy 53.34 137.16) (xy 53.34 124.46)
 		)
 		(stroke
 			(width 0)
@@ -2418,7 +2404,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 40.64) (xy 142.24 58.42)
+			(xy 142.24 43.18) (xy 142.24 58.42)
 		)
 		(stroke
 			(width 0)
@@ -2428,7 +2414,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 147.32) (xy 152.4 137.16)
+			(xy 152.4 125.73) (xy 152.4 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2438,7 +2424,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 137.16) (xy 152.4 137.16)
+			(xy 144.78 115.57) (xy 152.4 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2448,17 +2434,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 99.06) (xy 142.24 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9248be9d-14c0-467b-86f1-584172384c0f")
-	)
-	(wire
-		(pts
-			(xy 142.24 137.16) (xy 142.24 142.24)
+			(xy 142.24 115.57) (xy 142.24 120.65)
 		)
 		(stroke
 			(width 0)
@@ -2478,7 +2454,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 119.38) (xy 144.78 119.38)
+			(xy 139.7 101.6) (xy 144.78 101.6)
 		)
 		(stroke
 			(width 0)
@@ -2488,7 +2464,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 40.64) (xy 142.24 40.64)
+			(xy 137.16 43.18) (xy 142.24 43.18)
 		)
 		(stroke
 			(width 0)
@@ -2498,7 +2474,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 81.28) (xy 142.24 81.28)
+			(xy 101.6 76.2) (xy 116.84 76.2)
 		)
 		(stroke
 			(width 0)
@@ -2518,7 +2494,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 137.16) (xy 53.34 137.16)
+			(xy 66.04 115.57) (xy 53.34 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2528,13 +2504,23 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 40.64) (xy 121.92 40.64)
+			(xy 111.76 43.18) (xy 121.92 43.18)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "c142a11f-93de-4973-978b-f80a7a150eba")
+	)
+	(wire
+		(pts
+			(xy 81.28 137.16) (xy 81.28 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c175e38a-90f8-4c1f-a9ac-8ca26a6e2682")
 	)
 	(wire
 		(pts
@@ -2548,7 +2534,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 142.24) (xy 187.96 137.16)
+			(xy 187.96 120.65) (xy 187.96 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2578,7 +2564,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 147.32) (xy 187.96 152.4)
+			(xy 187.96 125.73) (xy 187.96 130.81)
 		)
 		(stroke
 			(width 0)
@@ -2588,7 +2574,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 137.16) (xy 53.34 154.94)
+			(xy 53.34 115.57) (xy 53.34 119.38)
 		)
 		(stroke
 			(width 0)
@@ -2598,7 +2584,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 119.38) (xy 124.46 119.38)
+			(xy 111.76 101.6) (xy 124.46 101.6)
 		)
 		(stroke
 			(width 0)
@@ -2608,7 +2594,17 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 73.66) (xy 81.28 99.06)
+			(xy 142.24 140.97) (xy 142.24 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da423600-3738-45ba-942c-e98a1bdbbb5a")
+	)
+	(wire
+		(pts
+			(xy 81.28 73.66) (xy 81.28 77.47)
 		)
 		(stroke
 			(width 0)
@@ -2618,7 +2614,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 137.16) (xy 124.46 137.16)
+			(xy 96.52 115.57) (xy 124.46 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2628,7 +2624,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 76.2) (xy 116.84 99.06)
+			(xy 116.84 76.2) (xy 116.84 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2638,7 +2634,17 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 160.02) (xy 142.24 160.02)
+			(xy 116.84 76.2) (xy 142.24 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea966971-7609-407a-938f-70bb6b94ff0c")
+	)
+	(wire
+		(pts
+			(xy 101.6 130.81) (xy 142.24 130.81)
 		)
 		(stroke
 			(width 0)
@@ -2648,7 +2654,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 137.16) (xy 142.24 137.16)
+			(xy 134.62 115.57) (xy 142.24 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2668,7 +2674,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 132.08) (xy 53.34 132.08)
+			(xy 46.99 110.49) (xy 53.34 110.49)
 		)
 		(stroke
 			(width 0)
@@ -2678,7 +2684,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 58.42) (xy 53.34 78.74)
+			(xy 53.34 58.42) (xy 53.34 66.04)
 		)
 		(stroke
 			(width 0)
@@ -2697,7 +2703,7 @@
 		(uuid "f9ca36e6-fc3a-4bce-976c-2e7baf323474")
 	)
 	(label "3V3_2"
-		(at 160.02 137.16 0)
+		(at 160.02 115.57 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2707,7 +2713,7 @@
 		(uuid "04c019b2-b739-42b6-a822-41f36fbaf395")
 	)
 	(label ""
-		(at 113.03 137.16 0)
+		(at 113.03 115.57 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2737,7 +2743,7 @@
 		(uuid "4e4a62db-685a-4c1f-b6b6-23fab1dbcfac")
 	)
 	(label "BOOST_1"
-		(at 96.52 40.64 0)
+		(at 96.52 43.18 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2767,7 +2773,7 @@
 		(uuid "839e6815-5bf4-46c7-9b2d-cdc8df4ff331")
 	)
 	(label "BOOST_2"
-		(at 96.52 119.38 0)
+		(at 96.52 101.6 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2777,7 +2783,7 @@
 		(uuid "91fe0dfc-1958-4559-8c3b-7070f016f703")
 	)
 	(label "3V3"
-		(at 193.04 137.16 0)
+		(at 193.04 115.57 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2787,7 +2793,7 @@
 		(uuid "9ed77efa-0495-4e34-ac88-4346062c3bb0")
 	)
 	(label "FB_2"
-		(at 101.6 144.78 0)
+		(at 101.6 123.19 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2798,7 +2804,7 @@
 	)
 	(global_label "VBATT"
 		(shape input)
-		(at 22.86 53.34 180)
+		(at 46.99 53.34 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2808,7 +2814,7 @@
 		)
 		(uuid "259ac0b9-f013-4297-b6b5-e3da2654b4b5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 14.4924 53.34 0)
+			(at 38.6224 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2846,7 +2852,7 @@
 	)
 	(global_label "VBATT"
 		(shape input)
-		(at 22.86 132.08 180)
+		(at 46.99 110.49 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2856,7 +2862,7 @@
 		)
 		(uuid "9749b8ff-e6db-426e-b44d-5886292674ca")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 14.4924 132.08 0)
+			(at 38.6224 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2870,7 +2876,7 @@
 	)
 	(global_label "SW1_2"
 		(shape input)
-		(at 111.76 137.16 0)
+		(at 111.76 115.57 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2880,7 +2886,7 @@
 		)
 		(uuid "dcc234fe-df16-49bf-962d-f283c443a41b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 120.7927 137.16 0)
+			(at 120.7927 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3423,7 +3429,7 @@
 	)
 	(symbol
 		(lib_id "LEARNSAT_POBOY_v3.2.0-altium-import:GND_POWER_GROUND")
-		(at 142.24 177.8 0)
+		(at 142.24 140.97 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3433,7 +3439,7 @@
 		(dnp no)
 		(uuid "1193a5b2-adf6-40d5-b413-0fcf68a07d45")
 		(property "Reference" "#PWR080"
-			(at 142.24 177.8 0)
+			(at 142.24 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3444,7 +3450,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 142.24 184.15 0)
+			(at 142.24 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3454,7 +3460,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 142.24 177.8 0)
+			(at 142.24 140.97 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3464,7 +3470,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 142.24 177.8 0)
+			(at 142.24 140.97 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3474,7 +3480,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 142.24 177.8 0)
+			(at 142.24 140.97 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3497,7 +3503,7 @@
 	)
 	(symbol
 		(lib_id "LEARNSAT_POBOY_v3.2.0-altium-import:GND_POWER_GROUND")
-		(at 81.28 177.8 0)
+		(at 81.28 137.16 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3507,7 +3513,7 @@
 		(dnp no)
 		(uuid "16292a1c-20f7-4bd5-a46d-fd1de3e2af2d")
 		(property "Reference" "#PWR076"
-			(at 81.28 177.8 0)
+			(at 81.28 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3518,7 +3524,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 81.28 184.15 0)
+			(at 81.28 143.51 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3528,7 +3534,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 177.8 0)
+			(at 81.28 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3538,7 +3544,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 177.8 0)
+			(at 81.28 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3548,7 +3554,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 81.28 177.8 0)
+			(at 81.28 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4076,7 +4082,7 @@
 	)
 	(symbol
 		(lib_id "Altium Content Vault:root_1_RES_Altium Content Vault_0")
-		(at 139.7 149.86 0)
+		(at 139.7 128.27 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4086,7 +4092,7 @@
 		(dnp no)
 		(uuid "275487c5-7e08-4ac7-9b44-09aada19ac7c")
 		(property "Reference" "R5"
-			(at 143.002 147.066 0)
+			(at 143.002 125.476 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4097,7 +4103,7 @@
 			)
 		)
 		(property "Value" "22.1k"
-			(at 143.002 149.606 0)
+			(at 143.002 128.016 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4108,7 +4114,7 @@
 			)
 		)
 		(property "Footprint" "Vault:RESC1609X50X30LL10T20"
-			(at 139.7 149.86 0)
+			(at 139.7 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4119,7 +4125,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 139.7 149.86 0)
+			(at 139.7 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4130,7 +4136,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 139.7 149.86 0)
+			(at 139.7 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4141,7 +4147,7 @@
 			)
 		)
 		(property "PART NUMBER" "CRCW060322K1FKEA"
-			(at 141.478 141.732 0)
+			(at 141.478 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4153,7 +4159,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Vishay Dale"
-			(at 141.478 141.732 0)
+			(at 141.478 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4165,7 +4171,7 @@
 			)
 		)
 		(property "CODE_IPC" ""
-			(at 139.7 149.86 0)
+			(at 139.7 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4176,7 +4182,7 @@
 			)
 		)
 		(property "CODE_JEDEC" ""
-			(at 139.7 149.86 0)
+			(at 139.7 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4187,7 +4193,7 @@
 			)
 		)
 		(property "COMPTYPE" ""
-			(at 139.7 149.86 0)
+			(at 139.7 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4198,7 +4204,7 @@
 			)
 		)
 		(property "HIGH-RELIABILITY" ""
-			(at 139.7 149.86 0)
+			(at 139.7 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4209,7 +4215,7 @@
 			)
 		)
 		(property "PACKAGETOPMARKING" ""
-			(at 139.7 149.86 0)
+			(at 139.7 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4220,7 +4226,7 @@
 			)
 		)
 		(property "PINCOUNT" ""
-			(at 139.7 149.86 0)
+			(at 139.7 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4231,7 +4237,7 @@
 			)
 		)
 		(property "POWERWISE" ""
-			(at 139.7 149.86 0)
+			(at 139.7 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4242,7 +4248,7 @@
 			)
 		)
 		(property "RESISTANCE TOLERANCE" ""
-			(at 139.7 149.86 0)
+			(at 139.7 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4269,7 +4275,7 @@
 	)
 	(symbol
 		(lib_id "Altium Content Vault:root_0_b4654b650e69147ec39a6b967a45e02_Altium Content Vault")
-		(at 53.34 154.94 0)
+		(at 53.34 119.38 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4279,7 +4285,7 @@
 		(dnp no)
 		(uuid "2890757b-a6b5-4e04-ba6a-3b6ad35b6a2d")
 		(property "Reference" "C10"
-			(at 45.72 157.48 0)
+			(at 45.72 121.92 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4290,7 +4296,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 45.72 160.02 0)
+			(at 45.72 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4301,7 +4307,7 @@
 			)
 		)
 		(property "Footprint" "Vault:FP-CL10-IPC_B"
-			(at 53.34 154.94 0)
+			(at 53.34 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4312,7 +4318,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 53.34 154.94 0)
+			(at 53.34 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4323,7 +4329,7 @@
 			)
 		)
 		(property "Description" "Cap Ceramic 1uF 25V X7R ±10% Pad SMD 0603 +125°C T/R"
-			(at 53.34 154.94 0)
+			(at 53.34 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4334,7 +4340,7 @@
 			)
 		)
 		(property "WIDTH" "0.031inch"
-			(at 50.546 154.432 0)
+			(at 50.546 118.872 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4346,7 +4352,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "25V"
-			(at 50.546 154.432 0)
+			(at 50.546 118.872 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4358,7 +4364,7 @@
 			)
 		)
 		(property "LENGTH" "0.063inch"
-			(at 50.546 154.432 0)
+			(at 50.546 118.872 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4370,7 +4376,7 @@
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" "-55°C"
-			(at 50.546 154.432 0)
+			(at 50.546 118.872 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4382,7 +4388,7 @@
 			)
 		)
 		(property "PACKAGE QUANTITY" "1"
-			(at 50.546 154.432 0)
+			(at 50.546 118.872 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4394,7 +4400,7 @@
 			)
 		)
 		(property "TOLERANCE" "10%"
-			(at 50.546 154.432 0)
+			(at 50.546 118.872 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4406,7 +4412,7 @@
 			)
 		)
 		(property "CASE CODE (METRIC)" "1608"
-			(at 50.546 154.432 0)
+			(at 50.546 118.872 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4418,7 +4424,7 @@
 			)
 		)
 		(property "CASE/PACKAGE" "0603"
-			(at 50.546 154.432 0)
+			(at 50.546 118.872 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4430,7 +4436,7 @@
 			)
 		)
 		(property "MOUNT" "Surface Mount"
-			(at 50.546 154.432 0)
+			(at 50.546 118.872 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4442,7 +4448,7 @@
 			)
 		)
 		(property "THICKNESS" "0.035inch"
-			(at 50.546 154.432 0)
+			(at 50.546 118.872 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4454,7 +4460,7 @@
 			)
 		)
 		(property "LEAD FREE" "Lead Free"
-			(at 50.546 154.432 0)
+			(at 50.546 118.872 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4466,7 +4472,7 @@
 			)
 		)
 		(property "CASE CODE (IMPERIAL)" "0603"
-			(at 50.546 154.432 0)
+			(at 50.546 118.872 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4478,7 +4484,7 @@
 			)
 		)
 		(property "CAPACITANCE" "1uF"
-			(at 50.546 154.432 0)
+			(at 50.546 118.872 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4490,7 +4496,7 @@
 			)
 		)
 		(property "DEPTH" "0.8mm"
-			(at 50.546 154.432 0)
+			(at 50.546 118.872 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4502,7 +4508,7 @@
 			)
 		)
 		(property "DIELECTRIC" "X7R"
-			(at 50.546 154.432 0)
+			(at 50.546 118.872 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4514,7 +4520,7 @@
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" "125°C"
-			(at 50.546 154.432 0)
+			(at 50.546 118.872 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4526,7 +4532,7 @@
 			)
 		)
 		(property "RADIATION HARDENING" "No"
-			(at 50.546 154.432 0)
+			(at 50.546 118.872 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4538,7 +4544,7 @@
 			)
 		)
 		(property "PACKAGING" "Tape and Reel"
-			(at 50.546 154.432 0)
+			(at 50.546 118.872 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4550,7 +4556,7 @@
 			)
 		)
 		(property "HEIGHT" "0.8mm"
-			(at 50.546 154.432 0)
+			(at 50.546 118.872 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4562,7 +4568,7 @@
 			)
 		)
 		(property "CODE_IPC" ""
-			(at 53.34 154.94 0)
+			(at 53.34 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4573,7 +4579,7 @@
 			)
 		)
 		(property "CODE_JEDEC" ""
-			(at 53.34 154.94 0)
+			(at 53.34 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4584,7 +4590,7 @@
 			)
 		)
 		(property "COMPTYPE" ""
-			(at 53.34 154.94 0)
+			(at 53.34 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4595,7 +4601,7 @@
 			)
 		)
 		(property "HIGH-RELIABILITY" ""
-			(at 53.34 154.94 0)
+			(at 53.34 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4606,7 +4612,7 @@
 			)
 		)
 		(property "PACKAGETOPMARKING" ""
-			(at 53.34 154.94 0)
+			(at 53.34 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4617,7 +4623,7 @@
 			)
 		)
 		(property "PINCOUNT" ""
-			(at 53.34 154.94 0)
+			(at 53.34 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4628,7 +4634,7 @@
 			)
 		)
 		(property "POWERWISE" ""
-			(at 53.34 154.94 0)
+			(at 53.34 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4639,7 +4645,7 @@
 			)
 		)
 		(property "RESISTANCE TOLERANCE" ""
-			(at 53.34 154.94 0)
+			(at 53.34 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4666,7 +4672,7 @@
 	)
 	(symbol
 		(lib_id "UGA SSRL Hardware Team:root_0_inductor_UGA SSRL Hardware Team")
-		(at 116.84 137.16 0)
+		(at 116.84 115.57 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4676,7 +4682,7 @@
 		(dnp no)
 		(uuid "29c76392-aceb-43b4-ba08-e715633df647")
 		(property "Reference" "L2"
-			(at 127 134.62 0)
+			(at 127 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4687,7 +4693,7 @@
 			)
 		)
 		(property "Value" "PA4547.103NLT"
-			(at 115.57 140.97 0)
+			(at 115.57 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4699,7 +4705,7 @@
 			)
 		)
 		(property "Footprint" "Vault:INDM3532X15N"
-			(at 116.84 137.16 0)
+			(at 116.84 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4710,7 +4716,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 137.16 0)
+			(at 116.84 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4721,7 +4727,7 @@
 			)
 		)
 		(property "Description" "Inductor Power Molded Wirewound 10uH 20% 100KHz 1.2A 0.522Ohm DCR Automotive T/R"
-			(at 116.84 137.16 0)
+			(at 116.84 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4732,7 +4738,7 @@
 			)
 		)
 		(property "INDUCTANCE" "10uH"
-			(at 120.142 133.096 0)
+			(at 120.142 111.506 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4743,7 +4749,7 @@
 			)
 		)
 		(property "DC RESISTANCE MAX" "522 mOhms"
-			(at 115.57 130.81 0)
+			(at 115.57 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4755,7 +4761,7 @@
 			)
 		)
 		(property "RATED CURRENT" "1.20A"
-			(at 115.57 130.81 0)
+			(at 115.57 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4767,7 +4773,7 @@
 			)
 		)
 		(property "SATURATION CURRENT" "1.6A"
-			(at 115.57 130.81 0)
+			(at 115.57 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4779,7 +4785,7 @@
 			)
 		)
 		(property "DC RESISTANCE TYPICAL" "435 mOhms"
-			(at 115.57 130.81 0)
+			(at 115.57 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4791,7 +4797,7 @@
 			)
 		)
 		(property "CODE_IPC" ""
-			(at 116.84 137.16 0)
+			(at 116.84 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4802,7 +4808,7 @@
 			)
 		)
 		(property "CODE_JEDEC" ""
-			(at 116.84 137.16 0)
+			(at 116.84 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4813,7 +4819,7 @@
 			)
 		)
 		(property "COMPTYPE" ""
-			(at 116.84 137.16 0)
+			(at 116.84 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4824,7 +4830,7 @@
 			)
 		)
 		(property "HIGH-RELIABILITY" ""
-			(at 116.84 137.16 0)
+			(at 116.84 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4835,7 +4841,7 @@
 			)
 		)
 		(property "PACKAGETOPMARKING" ""
-			(at 116.84 137.16 0)
+			(at 116.84 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4846,7 +4852,7 @@
 			)
 		)
 		(property "PINCOUNT" ""
-			(at 116.84 137.16 0)
+			(at 116.84 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4857,7 +4863,7 @@
 			)
 		)
 		(property "POWERWISE" ""
-			(at 116.84 137.16 0)
+			(at 116.84 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4868,7 +4874,7 @@
 			)
 		)
 		(property "RESISTANCE TOLERANCE" ""
-			(at 116.84 137.16 0)
+			(at 116.84 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4895,7 +4901,7 @@
 	)
 	(symbol
 		(lib_id "LEARNSAT_POBOY_v3.2.0-altium-import:GND_POWER_GROUND")
-		(at 152.4 177.8 0)
+		(at 152.4 137.16 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4905,7 +4911,7 @@
 		(dnp no)
 		(uuid "2b226be1-f8dd-445a-8689-005aea4e73f5")
 		(property "Reference" "#PWR082"
-			(at 152.4 177.8 0)
+			(at 152.4 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4916,7 +4922,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 152.4 184.15 0)
+			(at 152.4 143.51 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4926,7 +4932,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 152.4 177.8 0)
+			(at 152.4 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4936,7 +4942,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 152.4 177.8 0)
+			(at 152.4 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4946,7 +4952,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 152.4 177.8 0)
+			(at 152.4 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4969,7 +4975,7 @@
 	)
 	(symbol
 		(lib_id "Altium Content Vault:root_1_1d6ec82d83fb6aee721767c19dac4b9_Altium Content Vault")
-		(at 116.84 154.94 0)
+		(at 116.84 133.35 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4979,7 +4985,7 @@
 		(dnp no)
 		(uuid "2ca51eb1-4996-4ee9-be5d-50aa43ca28e8")
 		(property "Reference" "D11"
-			(at 119.634 146.304 0)
+			(at 119.634 124.714 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4990,7 +4996,7 @@
 			)
 		)
 		(property "Value" "MBR0530"
-			(at 119.634 148.844 0)
+			(at 119.634 127.254 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5001,7 +5007,7 @@
 			)
 		)
 		(property "Footprint" "Vault:FP-425-04-MFG"
-			(at 116.84 154.94 0)
+			(at 116.84 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5012,7 +5018,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 154.94 0)
+			(at 116.84 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5023,7 +5029,7 @@
 			)
 		)
 		(property "Description" "DIODE SCHOTTKY 30V 500MA SOD123"
-			(at 116.84 154.94 0)
+			(at 116.84 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5034,7 +5040,7 @@
 			)
 		)
 		(property "REACH SVHC" "No SVHC"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5046,7 +5052,7 @@
 			)
 		)
 		(property "CONTACT PLATING" "Tin"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5058,7 +5064,7 @@
 			)
 		)
 		(property "WIDTH" "1.6mm"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5070,7 +5076,7 @@
 			)
 		)
 		(property "POLARITY" "Standard"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5082,7 +5088,7 @@
 			)
 		)
 		(property "MAX REVERSE LEAKAGE CURRENT" "130uA"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5094,7 +5100,7 @@
 			)
 		)
 		(property "WEIGHT" "0.03g"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5106,7 +5112,7 @@
 			)
 		)
 		(property "FORWARD VOLTAGE" "430mV"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5118,7 +5124,7 @@
 			)
 		)
 		(property "MAX REVERSE VOLTAGE (DC)" "30V"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5130,7 +5136,7 @@
 			)
 		)
 		(property "MOUNT" "Surface Mount"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5142,7 +5148,7 @@
 			)
 		)
 		(property "MAX REPETITIVE REVERSE VOLTAGE (VRRM)" "30V"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5154,7 +5160,7 @@
 			)
 		)
 		(property "ELEMENT CONFIGURATION" "Single"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5166,7 +5172,7 @@
 			)
 		)
 		(property "NUMBER OF PINS" "2"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5178,7 +5184,7 @@
 			)
 		)
 		(property "PEAK NON-REPETITIVE SURGE CURRENT" "5.5A"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5190,7 +5196,7 @@
 			)
 		)
 		(property "HEIGHT" "1.03mm"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5202,7 +5208,7 @@
 			)
 		)
 		(property "CURRENT RATING" "500mA"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5214,7 +5220,7 @@
 			)
 		)
 		(property "MAX FORWARD SURGE CURRENT (IFSM)" "5.5A"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5226,7 +5232,7 @@
 			)
 		)
 		(property "LEAD FREE" "Lead Free"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5238,7 +5244,7 @@
 			)
 		)
 		(property "MAX SURGE CURRENT" "5.5A"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5250,7 +5256,7 @@
 			)
 		)
 		(property "PEAK REVERSE CURRENT" "130uA"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5262,7 +5268,7 @@
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" "-65°C"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5274,7 +5280,7 @@
 			)
 		)
 		(property "RADIATION HARDENING" "No"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5286,7 +5292,7 @@
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" "150°C"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5298,7 +5304,7 @@
 			)
 		)
 		(property "AVERAGE RECTIFIED CURRENT" "500mA"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5310,7 +5316,7 @@
 			)
 		)
 		(property "PACKAGING" "Tape and Reel"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5322,7 +5328,7 @@
 			)
 		)
 		(property "LENGTH" "2.7mm"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5334,7 +5340,7 @@
 			)
 		)
 		(property "FORWARD CURRENT" "500mA"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5346,7 +5352,7 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" "30V"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5358,7 +5364,7 @@
 			)
 		)
 		(property "PACKAGE QUANTITY" "1"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5370,7 +5376,7 @@
 			)
 		)
 		(property "OUTPUT CURRENT" "500mA"
-			(at 114.046 139.192 0)
+			(at 114.046 117.602 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5382,7 +5388,7 @@
 			)
 		)
 		(property "PART NUMBER" "*"
-			(at 114.046 157.988 0)
+			(at 114.046 136.398 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5394,7 +5400,7 @@
 			)
 		)
 		(property "CODE_IPC" ""
-			(at 116.84 154.94 0)
+			(at 116.84 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5405,7 +5411,7 @@
 			)
 		)
 		(property "CODE_JEDEC" ""
-			(at 116.84 154.94 0)
+			(at 116.84 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5416,7 +5422,7 @@
 			)
 		)
 		(property "COMPTYPE" ""
-			(at 116.84 154.94 0)
+			(at 116.84 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5427,7 +5433,7 @@
 			)
 		)
 		(property "HIGH-RELIABILITY" ""
-			(at 116.84 154.94 0)
+			(at 116.84 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5438,7 +5444,7 @@
 			)
 		)
 		(property "PACKAGETOPMARKING" ""
-			(at 116.84 154.94 0)
+			(at 116.84 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5449,7 +5455,7 @@
 			)
 		)
 		(property "PINCOUNT" ""
-			(at 116.84 154.94 0)
+			(at 116.84 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5460,7 +5466,7 @@
 			)
 		)
 		(property "POWERWISE" ""
-			(at 116.84 154.94 0)
+			(at 116.84 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5471,7 +5477,7 @@
 			)
 		)
 		(property "RESISTANCE TOLERANCE" ""
-			(at 116.84 154.94 0)
+			(at 116.84 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5727,7 +5733,7 @@
 	)
 	(symbol
 		(lib_id "LEARNSAT_POBOY_v3.2.0-altium-import:GND_POWER_GROUND")
-		(at 53.34 99.06 0)
+		(at 53.34 76.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5737,7 +5743,7 @@
 		(dnp no)
 		(uuid "444216ec-aef2-44c7-b6da-20e198b886f6")
 		(property "Reference" "#PWR073"
-			(at 53.34 99.06 0)
+			(at 53.34 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5748,7 +5754,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 53.34 105.41 0)
+			(at 53.34 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5758,7 +5764,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 53.34 99.06 0)
+			(at 53.34 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5768,7 +5774,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 53.34 99.06 0)
+			(at 53.34 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5778,7 +5784,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 53.34 99.06 0)
+			(at 53.34 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5801,7 +5807,7 @@
 	)
 	(symbol
 		(lib_id "LEARNSAT_POBOY_v3.2.0-altium-import:GND_POWER_GROUND")
-		(at 81.28 99.06 0)
+		(at 81.28 77.47 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5811,7 +5817,7 @@
 		(dnp no)
 		(uuid "46d8f42c-9d73-4b9d-9964-7dafec873fba")
 		(property "Reference" "#PWR075"
-			(at 81.28 99.06 0)
+			(at 81.28 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5822,7 +5828,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 81.28 105.41 0)
+			(at 81.28 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5832,7 +5838,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 99.06 0)
+			(at 81.28 77.47 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5842,7 +5848,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 99.06 0)
+			(at 81.28 77.47 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5852,7 +5858,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 81.28 99.06 0)
+			(at 81.28 77.47 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5875,7 +5881,7 @@
 	)
 	(symbol
 		(lib_id "LEARNSAT_POBOY_v3.2.0-altium-import:GND_POWER_GROUND")
-		(at 116.84 99.06 0)
+		(at 116.84 81.28 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5885,7 +5891,7 @@
 		(dnp no)
 		(uuid "48f56e6d-ae91-4bf1-93a6-dc535f675578")
 		(property "Reference" "#PWR077"
-			(at 116.84 99.06 0)
+			(at 116.84 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5896,7 +5902,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 116.84 105.41 0)
+			(at 116.84 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5906,7 +5912,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 116.84 99.06 0)
+			(at 116.84 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5916,7 +5922,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 99.06 0)
+			(at 116.84 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5926,7 +5932,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 116.84 99.06 0)
+			(at 116.84 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6142,7 +6148,7 @@
 	)
 	(symbol
 		(lib_id "University of Georgia:root_1_CAP-NP-2_University of Georgia")
-		(at 152.4 154.94 0)
+		(at 152.4 133.35 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6152,7 +6158,7 @@
 		(dnp no)
 		(uuid "56be7624-de3b-47cf-bafa-f07b58e84a1f")
 		(property "Reference" "C11"
-			(at 154.686 152.146 0)
+			(at 154.686 130.556 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6163,7 +6169,7 @@
 			)
 		)
 		(property "Value" "Capacitor 10µF +/-20% 10V 0603"
-			(at 150.114 146.812 0)
+			(at 150.114 125.222 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6175,7 +6181,7 @@
 			)
 		)
 		(property "Footprint" "Vault:CAPC0603(1608)100_L"
-			(at 152.4 154.94 0)
+			(at 152.4 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6186,7 +6192,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 152.4 154.94 0)
+			(at 152.4 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6197,7 +6203,7 @@
 			)
 		)
 		(property "Description" "Chip Capacitor, 10µF +/-20%, 10V, 0603, Thickness 1 mm"
-			(at 152.4 154.94 0)
+			(at 152.4 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6208,7 +6214,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "10V"
-			(at 150.114 146.812 0)
+			(at 150.114 125.222 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6220,7 +6226,7 @@
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" "85°C"
-			(at 150.114 146.812 0)
+			(at 150.114 125.222 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6232,7 +6238,7 @@
 			)
 		)
 		(property "PINS" "2"
-			(at 150.114 146.812 0)
+			(at 150.114 125.222 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6244,7 +6250,7 @@
 			)
 		)
 		(property "CASE/PACKAGE" "0603"
-			(at 150.114 146.812 0)
+			(at 150.114 125.222 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6256,7 +6262,7 @@
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" "SMT"
-			(at 150.114 146.812 0)
+			(at 150.114 125.222 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6268,7 +6274,7 @@
 			)
 		)
 		(property "CAPACITOR TYPE" ""
-			(at 150.114 146.812 0)
+			(at 150.114 125.222 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6280,7 +6286,7 @@
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" "-55°C"
-			(at 150.114 146.812 0)
+			(at 150.114 125.222 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6292,7 +6298,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "10uF"
-			(at 154.686 154.686 0)
+			(at 154.686 133.096 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6303,7 +6309,7 @@
 			)
 		)
 		(property "RIPPLE CURRENT (AC)" ""
-			(at 150.114 146.812 0)
+			(at 150.114 125.222 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6315,7 +6321,7 @@
 			)
 		)
 		(property "ROHS COMPLIANT" ""
-			(at 150.114 146.812 0)
+			(at 150.114 125.222 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6327,7 +6333,7 @@
 			)
 		)
 		(property "RIPPLE CURRENT" ""
-			(at 150.114 146.812 0)
+			(at 150.114 125.222 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6339,7 +6345,7 @@
 			)
 		)
 		(property "TOLERANCE" "10%"
-			(at 150.114 146.812 0)
+			(at 150.114 125.222 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6351,7 +6357,7 @@
 			)
 		)
 		(property "CODE_IPC" ""
-			(at 152.4 154.94 0)
+			(at 152.4 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6362,7 +6368,7 @@
 			)
 		)
 		(property "CODE_JEDEC" ""
-			(at 152.4 154.94 0)
+			(at 152.4 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6373,7 +6379,7 @@
 			)
 		)
 		(property "COMPTYPE" ""
-			(at 152.4 154.94 0)
+			(at 152.4 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6384,7 +6390,7 @@
 			)
 		)
 		(property "HIGH-RELIABILITY" ""
-			(at 152.4 154.94 0)
+			(at 152.4 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6395,7 +6401,7 @@
 			)
 		)
 		(property "PACKAGETOPMARKING" ""
-			(at 152.4 154.94 0)
+			(at 152.4 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6406,7 +6412,7 @@
 			)
 		)
 		(property "PINCOUNT" ""
-			(at 152.4 154.94 0)
+			(at 152.4 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6417,7 +6423,7 @@
 			)
 		)
 		(property "POWERWISE" ""
-			(at 152.4 154.94 0)
+			(at 152.4 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6428,7 +6434,7 @@
 			)
 		)
 		(property "RESISTANCE TOLERANCE" ""
-			(at 152.4 154.94 0)
+			(at 152.4 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6455,7 +6461,7 @@
 	)
 	(symbol
 		(lib_id "Altium Content Vault:root_1_RES-2_Altium Content Vault")
-		(at 142.24 167.64 0)
+		(at 142.24 137.16 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6465,7 +6471,7 @@
 		(dnp no)
 		(uuid "68ffba6f-6804-4cc8-adf3-3176b52b6268")
 		(property "Reference" "R6"
-			(at 137.16 165.1 0)
+			(at 137.16 134.62 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6476,7 +6482,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 137.16 167.64 0)
+			(at 137.16 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6487,7 +6493,7 @@
 			)
 		)
 		(property "Footprint" "Vault:RESC1609X50X30NL8T20"
-			(at 142.24 167.64 0)
+			(at 142.24 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6498,7 +6504,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 142.24 167.64 0)
+			(at 142.24 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6509,7 +6515,7 @@
 			)
 		)
 		(property "Description" "Chip Resistor, 10 KOhm, +/- 1%, 100 mW, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel\r\nCRCW060310K0FKEA"
-			(at 142.24 167.64 0)
+			(at 142.24 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6520,7 +6526,7 @@
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" "155 degC"
-			(at 141.478 159.512 0)
+			(at 141.478 129.032 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6532,7 +6538,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Vishay Semiconductor"
-			(at 141.478 159.512 0)
+			(at 141.478 129.032 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6544,7 +6550,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "75 V"
-			(at 141.478 159.512 0)
+			(at 141.478 129.032 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6556,7 +6562,7 @@
 			)
 		)
 		(property "PACKAGEDESCRIPTION" "2-Pin Surface Mount Device, Body 1.575 x 0.85 mm"
-			(at 141.478 159.512 0)
+			(at 141.478 129.032 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6568,7 +6574,7 @@
 			)
 		)
 		(property "COMPONENTLINK1DESCRIPTION" "Manufacturer URL"
-			(at 141.478 159.512 0)
+			(at 141.478 129.032 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6580,7 +6586,7 @@
 			)
 		)
 		(property "ROHSCOMPLIANT" "true"
-			(at 141.478 159.512 0)
+			(at 141.478 129.032 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6592,7 +6598,7 @@
 			)
 		)
 		(property "PACKAGEREFERENCE" "0603"
-			(at 141.478 159.512 0)
+			(at 141.478 129.032 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6604,7 +6610,7 @@
 			)
 		)
 		(property "REACH SVHC" "Unknown"
-			(at 141.478 159.512 0)
+			(at 141.478 129.032 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6616,7 +6622,7 @@
 			)
 		)
 		(property "LENGTH" "1.55 mm"
-			(at 141.478 159.512 0)
+			(at 141.478 129.032 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6628,7 +6634,7 @@
 			)
 		)
 		(property "DATASHEETVERSION" "06/2012"
-			(at 141.478 159.512 0)
+			(at 141.478 129.032 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6640,7 +6646,7 @@
 			)
 		)
 		(property "PACKAGING" "Tape and Reel"
-			(at 141.478 159.512 0)
+			(at 141.478 129.032 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6652,7 +6658,7 @@
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" "-55 degC"
-			(at 141.478 159.512 0)
+			(at 141.478 129.032 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6664,7 +6670,7 @@
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" "Surface Mount"
-			(at 141.478 159.512 0)
+			(at 141.478 129.032 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6676,7 +6682,7 @@
 			)
 		)
 		(property "COMPONENTLINK2URL" "https://datasheet.ciiva.com/11809/0900766b80d98afc-11809037.pdf"
-			(at 141.478 159.512 0)
+			(at 141.478 129.032 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6688,7 +6694,7 @@
 			)
 		)
 		(property "HEIGHT" "0.45 mm"
-			(at 141.478 159.512 0)
+			(at 141.478 129.032 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6700,7 +6706,7 @@
 			)
 		)
 		(property "COMPONENTLINK2DESCRIPTION" "Datasheet"
-			(at 141.478 159.512 0)
+			(at 141.478 129.032 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6712,7 +6718,7 @@
 			)
 		)
 		(property "PACKAGE QUANTITY" "5000"
-			(at 141.478 159.512 0)
+			(at 141.478 129.032 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6724,7 +6730,7 @@
 			)
 		)
 		(property "COMPONENTLINK1URL" "http://www.vishay.com/"
-			(at 141.478 159.512 0)
+			(at 141.478 129.032 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6736,7 +6742,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "1K"
-			(at 141.478 159.512 0)
+			(at 141.478 129.032 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6748,7 +6754,7 @@
 			)
 		)
 		(property "CODE_IPC" ""
-			(at 142.24 167.64 0)
+			(at 142.24 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6759,7 +6765,7 @@
 			)
 		)
 		(property "CODE_JEDEC" ""
-			(at 142.24 167.64 0)
+			(at 142.24 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6770,7 +6776,7 @@
 			)
 		)
 		(property "COMPTYPE" ""
-			(at 142.24 167.64 0)
+			(at 142.24 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6781,7 +6787,7 @@
 			)
 		)
 		(property "HIGH-RELIABILITY" ""
-			(at 142.24 167.64 0)
+			(at 142.24 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6792,7 +6798,7 @@
 			)
 		)
 		(property "PACKAGETOPMARKING" ""
-			(at 142.24 167.64 0)
+			(at 142.24 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6803,7 +6809,7 @@
 			)
 		)
 		(property "PINCOUNT" ""
-			(at 142.24 167.64 0)
+			(at 142.24 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6814,7 +6820,7 @@
 			)
 		)
 		(property "POWERWISE" ""
-			(at 142.24 167.64 0)
+			(at 142.24 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6825,7 +6831,7 @@
 			)
 		)
 		(property "RESISTANCE TOLERANCE" ""
-			(at 142.24 167.64 0)
+			(at 142.24 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7357,7 +7363,7 @@
 	)
 	(symbol
 		(lib_id "LEARNSAT_POBOY_v3.2.0-altium-import:GND_POWER_GROUND")
-		(at 187.96 152.4 0)
+		(at 187.96 130.81 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7367,7 +7373,7 @@
 		(dnp no)
 		(uuid "882855ef-9722-41f1-8384-f10c1fd8330b")
 		(property "Reference" "#PWR084"
-			(at 187.96 152.4 0)
+			(at 187.96 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7378,7 +7384,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 187.96 158.75 0)
+			(at 187.96 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7388,7 +7394,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 152.4 0)
+			(at 187.96 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7398,7 +7404,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 152.4 0)
+			(at 187.96 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7408,7 +7414,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 187.96 152.4 0)
+			(at 187.96 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7431,7 +7437,7 @@
 	)
 	(symbol
 		(lib_id "Altium Content Vault:root_0_b4654b650e69147ec39a6b967a45e02_Altium Content Vault")
-		(at 53.34 78.74 0)
+		(at 53.34 66.04 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7441,7 +7447,7 @@
 		(dnp no)
 		(uuid "8ebf04d6-80f6-470a-8723-ca77ff39e062")
 		(property "Reference" "C6"
-			(at 56.134 82.042 0)
+			(at 56.134 69.342 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7452,7 +7458,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 56.134 84.582 0)
+			(at 56.134 71.882 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7463,7 +7469,7 @@
 			)
 		)
 		(property "Footprint" "Vault:FP-CL10-IPC_B"
-			(at 53.34 78.74 0)
+			(at 53.34 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7474,7 +7480,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 53.34 78.74 0)
+			(at 53.34 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7485,7 +7491,7 @@
 			)
 		)
 		(property "Description" "Cap Ceramic 1uF 25V X7R ±10% Pad SMD 0603 +125°C T/R"
-			(at 53.34 78.74 0)
+			(at 53.34 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7496,7 +7502,7 @@
 			)
 		)
 		(property "WIDTH" "0.031inch"
-			(at 50.546 78.232 0)
+			(at 50.546 65.532 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7508,7 +7514,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "25V"
-			(at 50.546 78.232 0)
+			(at 50.546 65.532 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7520,7 +7526,7 @@
 			)
 		)
 		(property "LENGTH" "0.063inch"
-			(at 50.546 78.232 0)
+			(at 50.546 65.532 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7532,7 +7538,7 @@
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" "-55°C"
-			(at 50.546 78.232 0)
+			(at 50.546 65.532 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7544,7 +7550,7 @@
 			)
 		)
 		(property "PACKAGE QUANTITY" "1"
-			(at 50.546 78.232 0)
+			(at 50.546 65.532 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7556,7 +7562,7 @@
 			)
 		)
 		(property "TOLERANCE" "10%"
-			(at 50.546 78.232 0)
+			(at 50.546 65.532 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7568,7 +7574,7 @@
 			)
 		)
 		(property "CASE CODE (METRIC)" "1608"
-			(at 50.546 78.232 0)
+			(at 50.546 65.532 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7580,7 +7586,7 @@
 			)
 		)
 		(property "CASE/PACKAGE" "0603"
-			(at 50.546 78.232 0)
+			(at 50.546 65.532 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7592,7 +7598,7 @@
 			)
 		)
 		(property "MOUNT" "Surface Mount"
-			(at 50.546 78.232 0)
+			(at 50.546 65.532 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7604,7 +7610,7 @@
 			)
 		)
 		(property "THICKNESS" "0.035inch"
-			(at 50.546 78.232 0)
+			(at 50.546 65.532 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7616,7 +7622,7 @@
 			)
 		)
 		(property "LEAD FREE" "Lead Free"
-			(at 50.546 78.232 0)
+			(at 50.546 65.532 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7628,7 +7634,7 @@
 			)
 		)
 		(property "CASE CODE (IMPERIAL)" "0603"
-			(at 50.546 78.232 0)
+			(at 50.546 65.532 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7640,7 +7646,7 @@
 			)
 		)
 		(property "CAPACITANCE" "1uF"
-			(at 50.546 78.232 0)
+			(at 50.546 65.532 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7652,7 +7658,7 @@
 			)
 		)
 		(property "DEPTH" "0.8mm"
-			(at 50.546 78.232 0)
+			(at 50.546 65.532 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7664,7 +7670,7 @@
 			)
 		)
 		(property "DIELECTRIC" "X7R"
-			(at 50.546 78.232 0)
+			(at 50.546 65.532 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7676,7 +7682,7 @@
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" "125°C"
-			(at 50.546 78.232 0)
+			(at 50.546 65.532 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7688,7 +7694,7 @@
 			)
 		)
 		(property "RADIATION HARDENING" "No"
-			(at 50.546 78.232 0)
+			(at 50.546 65.532 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7700,7 +7706,7 @@
 			)
 		)
 		(property "PACKAGING" "Tape and Reel"
-			(at 50.546 78.232 0)
+			(at 50.546 65.532 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7712,7 +7718,7 @@
 			)
 		)
 		(property "HEIGHT" "0.8mm"
-			(at 50.546 78.232 0)
+			(at 50.546 65.532 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7724,7 +7730,7 @@
 			)
 		)
 		(property "CODE_IPC" ""
-			(at 53.34 78.74 0)
+			(at 53.34 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7735,7 +7741,7 @@
 			)
 		)
 		(property "CODE_JEDEC" ""
-			(at 53.34 78.74 0)
+			(at 53.34 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7746,7 +7752,7 @@
 			)
 		)
 		(property "COMPTYPE" ""
-			(at 53.34 78.74 0)
+			(at 53.34 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7757,7 +7763,7 @@
 			)
 		)
 		(property "HIGH-RELIABILITY" ""
-			(at 53.34 78.74 0)
+			(at 53.34 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7768,7 +7774,7 @@
 			)
 		)
 		(property "PACKAGETOPMARKING" ""
-			(at 53.34 78.74 0)
+			(at 53.34 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7779,7 +7785,7 @@
 			)
 		)
 		(property "PINCOUNT" ""
-			(at 53.34 78.74 0)
+			(at 53.34 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7790,7 +7796,7 @@
 			)
 		)
 		(property "POWERWISE" ""
-			(at 53.34 78.74 0)
+			(at 53.34 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7801,7 +7807,7 @@
 			)
 		)
 		(property "RESISTANCE TOLERANCE" ""
-			(at 53.34 78.74 0)
+			(at 53.34 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7828,7 +7834,7 @@
 	)
 	(symbol
 		(lib_id "Altium Content Vault:root_1_RES-2_Altium Content Vault")
-		(at 142.24 88.9 0)
+		(at 142.24 83.82 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7838,7 +7844,7 @@
 		(dnp no)
 		(uuid "95b787ea-d0d7-42c6-a284-2902312d2d21")
 		(property "Reference" "R4"
-			(at 137.16 86.36 0)
+			(at 137.16 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7849,7 +7855,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 137.16 88.9 0)
+			(at 137.16 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7860,7 +7866,7 @@
 			)
 		)
 		(property "Footprint" "Vault:RESC1609X50X30NL8T20"
-			(at 142.24 88.9 0)
+			(at 142.24 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7871,7 +7877,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 142.24 88.9 0)
+			(at 142.24 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7882,7 +7888,7 @@
 			)
 		)
 		(property "Description" "Chip Resistor, 10 KOhm, +/- 1%, 100 mW, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel\r\nCRCW060310K0FKEA"
-			(at 142.24 88.9 0)
+			(at 142.24 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7893,7 +7899,7 @@
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" "155 degC"
-			(at 141.478 80.772 0)
+			(at 141.478 75.692 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7905,7 +7911,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Vishay Semiconductor"
-			(at 141.478 80.772 0)
+			(at 141.478 75.692 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7917,7 +7923,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "75 V"
-			(at 141.478 80.772 0)
+			(at 141.478 75.692 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7929,7 +7935,7 @@
 			)
 		)
 		(property "PACKAGEDESCRIPTION" "2-Pin Surface Mount Device, Body 1.575 x 0.85 mm"
-			(at 141.478 80.772 0)
+			(at 141.478 75.692 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7941,7 +7947,7 @@
 			)
 		)
 		(property "COMPONENTLINK1DESCRIPTION" "Manufacturer URL"
-			(at 141.478 80.772 0)
+			(at 141.478 75.692 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7953,7 +7959,7 @@
 			)
 		)
 		(property "ROHSCOMPLIANT" "true"
-			(at 141.478 80.772 0)
+			(at 141.478 75.692 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7965,7 +7971,7 @@
 			)
 		)
 		(property "PACKAGEREFERENCE" "0603"
-			(at 141.478 80.772 0)
+			(at 141.478 75.692 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7977,7 +7983,7 @@
 			)
 		)
 		(property "REACH SVHC" "Unknown"
-			(at 141.478 80.772 0)
+			(at 141.478 75.692 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7989,7 +7995,7 @@
 			)
 		)
 		(property "LENGTH" "1.55 mm"
-			(at 141.478 80.772 0)
+			(at 141.478 75.692 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8001,7 +8007,7 @@
 			)
 		)
 		(property "DATASHEETVERSION" "06/2012"
-			(at 141.478 80.772 0)
+			(at 141.478 75.692 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8013,7 +8019,7 @@
 			)
 		)
 		(property "PACKAGING" "Tape and Reel"
-			(at 141.478 80.772 0)
+			(at 141.478 75.692 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8025,7 +8031,7 @@
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" "-55 degC"
-			(at 141.478 80.772 0)
+			(at 141.478 75.692 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8037,7 +8043,7 @@
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" "Surface Mount"
-			(at 141.478 80.772 0)
+			(at 141.478 75.692 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8049,7 +8055,7 @@
 			)
 		)
 		(property "COMPONENTLINK2URL" "https://datasheet.ciiva.com/11809/0900766b80d98afc-11809037.pdf"
-			(at 141.478 80.772 0)
+			(at 141.478 75.692 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8061,7 +8067,7 @@
 			)
 		)
 		(property "HEIGHT" "0.45 mm"
-			(at 141.478 80.772 0)
+			(at 141.478 75.692 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8073,7 +8079,7 @@
 			)
 		)
 		(property "COMPONENTLINK2DESCRIPTION" "Datasheet"
-			(at 141.478 80.772 0)
+			(at 141.478 75.692 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8085,7 +8091,7 @@
 			)
 		)
 		(property "PACKAGE QUANTITY" "5000"
-			(at 141.478 80.772 0)
+			(at 141.478 75.692 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8097,7 +8103,7 @@
 			)
 		)
 		(property "COMPONENTLINK1URL" "http://www.vishay.com/"
-			(at 141.478 80.772 0)
+			(at 141.478 75.692 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8109,7 +8115,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "1K"
-			(at 141.478 80.772 0)
+			(at 141.478 75.692 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8121,7 +8127,7 @@
 			)
 		)
 		(property "CODE_IPC" ""
-			(at 142.24 88.9 0)
+			(at 142.24 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8132,7 +8138,7 @@
 			)
 		)
 		(property "CODE_JEDEC" ""
-			(at 142.24 88.9 0)
+			(at 142.24 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8143,7 +8149,7 @@
 			)
 		)
 		(property "COMPTYPE" ""
-			(at 142.24 88.9 0)
+			(at 142.24 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8154,7 +8160,7 @@
 			)
 		)
 		(property "HIGH-RELIABILITY" ""
-			(at 142.24 88.9 0)
+			(at 142.24 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8165,7 +8171,7 @@
 			)
 		)
 		(property "PACKAGETOPMARKING" ""
-			(at 142.24 88.9 0)
+			(at 142.24 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8176,7 +8182,7 @@
 			)
 		)
 		(property "PINCOUNT" ""
-			(at 142.24 88.9 0)
+			(at 142.24 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8187,7 +8193,7 @@
 			)
 		)
 		(property "POWERWISE" ""
-			(at 142.24 88.9 0)
+			(at 142.24 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8198,7 +8204,7 @@
 			)
 		)
 		(property "RESISTANCE TOLERANCE" ""
-			(at 142.24 88.9 0)
+			(at 142.24 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8225,7 +8231,7 @@
 	)
 	(symbol
 		(lib_id "Altium Content Vault:root_0_11868f565c42a9108669ba33697ecf6_Altium Content Vault")
-		(at 187.96 142.24 0)
+		(at 187.96 120.65 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8235,7 +8241,7 @@
 		(dnp no)
 		(uuid "9829b3a2-3866-4b7e-99bb-2ead535b516e")
 		(property "Reference" "C12"
-			(at 190.5 144.78 0)
+			(at 190.5 123.19 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8246,7 +8252,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 190.5 147.32 0)
+			(at 190.5 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8257,7 +8263,7 @@
 			)
 		)
 		(property "Footprint" "Vault:FP-C0603-CJ-MFG"
-			(at 187.96 142.24 0)
+			(at 187.96 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8268,7 +8274,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 142.24 0)
+			(at 187.96 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8279,7 +8285,7 @@
 			)
 		)
 		(property "Description" "CAP CER 0.1UF 50V X7R 0603\r\nC0603X104K5RACTU"
-			(at 187.96 142.24 0)
+			(at 187.96 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8290,7 +8296,7 @@
 			)
 		)
 		(property "TEMPERATURE RANGE HIGH" "+125°C"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8302,7 +8308,7 @@
 			)
 		)
 		(property "TEMPERATURE RANGE LOW" "-55°C"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8314,7 +8320,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "C0603X104K5RACTU"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8326,7 +8332,7 @@
 			)
 		)
 		(property "VOLTAGE" "50V"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8338,7 +8344,7 @@
 			)
 		)
 		(property "COMPONENTLINK2DESCRIPTION" "Datasheet"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8350,7 +8356,7 @@
 			)
 		)
 		(property "ROHS" "TRUE"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8362,7 +8368,7 @@
 			)
 		)
 		(property "COMPONENTLINK2URL" "https://content.kemet.com/datasheets/KEM_C1013_X7R_FT-CAP_SMD.pdf"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8374,7 +8380,7 @@
 			)
 		)
 		(property "CAPACITANCE" "100nF"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8386,7 +8392,7 @@
 			)
 		)
 		(property "MATERIAL" "Ceramic"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8398,7 +8404,7 @@
 			)
 		)
 		(property "DEVICE CLASS L3" "Ceramic Capacitors"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8410,7 +8416,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Kemet"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8422,7 +8428,7 @@
 			)
 		)
 		(property "DEVICE CLASS L2" "Capacitors"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8434,7 +8440,7 @@
 			)
 		)
 		(property "PACKAGE" "C0603-CJ"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8446,7 +8452,7 @@
 			)
 		)
 		(property "HEIGHT" "0.95mm"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8458,7 +8464,7 @@
 			)
 		)
 		(property "DEVICE CLASS L1" "Passive Components"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8470,7 +8476,7 @@
 			)
 		)
 		(property "TOLERANCE" "10%"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8482,7 +8488,7 @@
 			)
 		)
 		(property "TEMPERATURE CHARACTERISTIC" "X7R"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8494,7 +8500,7 @@
 			)
 		)
 		(property "LEAD FREE" "Yes"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8506,7 +8512,7 @@
 			)
 		)
 		(property "DIGIKEY DESCRIPTION" "CAP CER 0.1UF 50V X7R 0603"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8518,7 +8524,7 @@
 			)
 		)
 		(property "AUTOMOTIVE" "No"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8530,7 +8536,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "100nF"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8542,7 +8548,7 @@
 			)
 		)
 		(property "TEMPERATURE COEFFICIENT" "15%"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8554,7 +8560,7 @@
 			)
 		)
 		(property "MOUSER DESCRIPTION" "Capacitor; Ceramic; Cap 0.1uF; Tol+10%; SMT; Flexible Termination; Vol-Rtg 50V; TR"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8566,7 +8572,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-55°C to +125°C"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8578,7 +8584,7 @@
 			)
 		)
 		(property "OCTOPART" "https://octopart.com/c0603x104k5ractu-kemet-9145062"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8590,7 +8596,7 @@
 			)
 		)
 		(property "CATEGORY" "Cap"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8602,7 +8608,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "50V"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8614,7 +8620,7 @@
 			)
 		)
 		(property "IPC LAND PATTERN NAME" "CAPC16080X80"
-			(at 185.166 141.732 0)
+			(at 185.166 120.142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8626,7 +8632,7 @@
 			)
 		)
 		(property "CODE_IPC" ""
-			(at 187.96 142.24 0)
+			(at 187.96 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8637,7 +8643,7 @@
 			)
 		)
 		(property "CODE_JEDEC" ""
-			(at 187.96 142.24 0)
+			(at 187.96 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8648,7 +8654,7 @@
 			)
 		)
 		(property "COMPTYPE" ""
-			(at 187.96 142.24 0)
+			(at 187.96 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8659,7 +8665,7 @@
 			)
 		)
 		(property "HIGH-RELIABILITY" ""
-			(at 187.96 142.24 0)
+			(at 187.96 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8670,7 +8676,7 @@
 			)
 		)
 		(property "PACKAGETOPMARKING" ""
-			(at 187.96 142.24 0)
+			(at 187.96 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8681,7 +8687,7 @@
 			)
 		)
 		(property "PINCOUNT" ""
-			(at 187.96 142.24 0)
+			(at 187.96 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8692,7 +8698,7 @@
 			)
 		)
 		(property "POWERWISE" ""
-			(at 187.96 142.24 0)
+			(at 187.96 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8703,7 +8709,7 @@
 			)
 		)
 		(property "RESISTANCE TOLERANCE" ""
-			(at 187.96 142.24 0)
+			(at 187.96 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9091,7 +9097,7 @@
 	)
 	(symbol
 		(lib_id "Altium Content Vault:root_2_d7152d700b627762746794eb795d46e_Altium Content Vault")
-		(at 139.7 119.38 0)
+		(at 139.7 101.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9101,7 +9107,7 @@
 		(dnp no)
 		(uuid "a40db267-3655-4779-b66f-191170661497")
 		(property "Reference" "D8"
-			(at 128.524 116.586 0)
+			(at 128.524 98.806 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9112,7 +9118,7 @@
 			)
 		)
 		(property "Value" "1N914BWT"
-			(at 128.524 124.714 0)
+			(at 128.524 106.934 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9123,7 +9129,7 @@
 			)
 		)
 		(property "Footprint" "Vault:FP-502-01-MFG"
-			(at 139.7 119.38 0)
+			(at 139.7 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9134,7 +9140,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 139.7 119.38 0)
+			(at 139.7 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9145,7 +9151,7 @@
 			)
 		)
 		(property "Description" "DIODE GEN PURP 75V 200MA SOD523F"
-			(at 139.7 119.38 0)
+			(at 139.7 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9156,7 +9162,7 @@
 			)
 		)
 		(property "COMPONENTLINK2DESCRIPTION" "Datasheet"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9168,7 +9174,7 @@
 			)
 		)
 		(property "PACKAGE" "502-01"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9180,7 +9186,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "1N914BWT"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9192,7 +9198,7 @@
 			)
 		)
 		(property "DIGIKEY DESCRIPTION" "DIODE GEN PURP 75V 200MA SOD523F"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9204,7 +9210,7 @@
 			)
 		)
 		(property "TEMPERATURE RANGE HIGH" "+150°C"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9216,7 +9222,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-55°C to +150°C"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9228,7 +9234,7 @@
 			)
 		)
 		(property "FOOTPRINT URL" "https://www.onsemi.com/pub/Collateral/502-01.PDF"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9240,7 +9246,7 @@
 			)
 		)
 		(property "DEVICE CLASS L2" "Diodes"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9252,7 +9258,7 @@
 			)
 		)
 		(property "LEAD FREE" "Yes"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9264,7 +9270,7 @@
 			)
 		)
 		(property "AUTOMOTIVE" "No"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9276,7 +9282,7 @@
 			)
 		)
 		(property "FORWARD CURRENT" "300mA"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9288,7 +9294,7 @@
 			)
 		)
 		(property "CAPACITANCE" "4pF"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9300,7 +9306,7 @@
 			)
 		)
 		(property "MAX JUNCTION TEMP" "+150°C"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9312,7 +9318,7 @@
 			)
 		)
 		(property "REVERSE VOLTAGE" "100V"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9324,7 +9330,7 @@
 			)
 		)
 		(property "CATEGORY" "Diode"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9336,7 +9342,7 @@
 			)
 		)
 		(property "OCTOPART" "https://octopart.com/1n914bwt-on+semiconductor-84323166"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9348,7 +9354,7 @@
 			)
 		)
 		(property "DEVICE CLASS L1" "Discrete Semiconductors"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9360,7 +9366,7 @@
 			)
 		)
 		(property "IPC LAND PATTERN NAME" "SODFL16080X60"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9372,7 +9378,7 @@
 			)
 		)
 		(property "DEVICE CLASS L3" "Rectifier Diodes"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9384,7 +9390,7 @@
 			)
 		)
 		(property "MANUFACTURER" "ON Semiconductor"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9396,7 +9402,7 @@
 			)
 		)
 		(property "HEIGHT" "0.7mm"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9408,7 +9414,7 @@
 			)
 		)
 		(property "MAX REPETITIVE REVERSE VOLTAGE" "75V"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9420,7 +9426,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "4pF"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9432,7 +9438,7 @@
 			)
 		)
 		(property "MOUSER DESCRIPTION" "Diodes - General Purpose, Power, Switching SINGLE JUNC. 100V 4.0NS COMP"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9444,7 +9450,7 @@
 			)
 		)
 		(property "TEMPERATURE RANGE LOW" "-55°C"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9456,7 +9462,7 @@
 			)
 		)
 		(property "COMPONENTLINK2URL" "https://www.onsemi.com/pub/Collateral/1N914BWT-D.pdf"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9468,7 +9474,7 @@
 			)
 		)
 		(property "PEAK REVERSE CURRENT" "5uA"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9480,7 +9486,7 @@
 			)
 		)
 		(property "ROHS" "TRUE"
-			(at 123.952 116.586 0)
+			(at 123.952 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9492,7 +9498,7 @@
 			)
 		)
 		(property "CODE_IPC" ""
-			(at 139.7 119.38 0)
+			(at 139.7 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9503,7 +9509,7 @@
 			)
 		)
 		(property "CODE_JEDEC" ""
-			(at 139.7 119.38 0)
+			(at 139.7 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9514,7 +9520,7 @@
 			)
 		)
 		(property "COMPTYPE" ""
-			(at 139.7 119.38 0)
+			(at 139.7 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9525,7 +9531,7 @@
 			)
 		)
 		(property "HIGH-RELIABILITY" ""
-			(at 139.7 119.38 0)
+			(at 139.7 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9536,7 +9542,7 @@
 			)
 		)
 		(property "PACKAGETOPMARKING" ""
-			(at 139.7 119.38 0)
+			(at 139.7 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9547,7 +9553,7 @@
 			)
 		)
 		(property "PINCOUNT" ""
-			(at 139.7 119.38 0)
+			(at 139.7 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9558,7 +9564,7 @@
 			)
 		)
 		(property "POWERWISE" ""
-			(at 139.7 119.38 0)
+			(at 139.7 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9569,7 +9575,7 @@
 			)
 		)
 		(property "RESISTANCE TOLERANCE" ""
-			(at 139.7 119.38 0)
+			(at 139.7 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9596,7 +9602,7 @@
 	)
 	(symbol
 		(lib_id "Altium Content Vault:root_0_d7152d700b627762746794eb795d46e_Altium Content Vault")
-		(at 167.64 137.16 0)
+		(at 167.64 115.57 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9606,7 +9612,7 @@
 		(dnp no)
 		(uuid "ae4e2ce0-e272-452d-8694-46ca56c9ce2f")
 		(property "Reference" "D12"
-			(at 171.704 134.366 0)
+			(at 171.704 112.776 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9617,7 +9623,7 @@
 			)
 		)
 		(property "Value" "1N914BWT"
-			(at 171.704 142.494 0)
+			(at 171.704 120.904 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9628,7 +9634,7 @@
 			)
 		)
 		(property "Footprint" "Vault:FP-502-01-MFG"
-			(at 167.64 137.16 0)
+			(at 167.64 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9639,7 +9645,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 167.64 137.16 0)
+			(at 167.64 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9650,7 +9656,7 @@
 			)
 		)
 		(property "Description" "DIODE GEN PURP 75V 200MA SOD523F"
-			(at 167.64 137.16 0)
+			(at 167.64 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9661,7 +9667,7 @@
 			)
 		)
 		(property "COMPONENTLINK2DESCRIPTION" "Datasheet"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9673,7 +9679,7 @@
 			)
 		)
 		(property "PACKAGE" "502-01"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9685,7 +9691,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "1N914BWT"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9697,7 +9703,7 @@
 			)
 		)
 		(property "DIGIKEY DESCRIPTION" "DIODE GEN PURP 75V 200MA SOD523F"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9709,7 +9715,7 @@
 			)
 		)
 		(property "TEMPERATURE RANGE HIGH" "+150°C"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9721,7 +9727,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-55°C to +150°C"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9733,7 +9739,7 @@
 			)
 		)
 		(property "FOOTPRINT URL" "https://www.onsemi.com/pub/Collateral/502-01.PDF"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9745,7 +9751,7 @@
 			)
 		)
 		(property "DEVICE CLASS L2" "Diodes"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9757,7 +9763,7 @@
 			)
 		)
 		(property "LEAD FREE" "Yes"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9769,7 +9775,7 @@
 			)
 		)
 		(property "AUTOMOTIVE" "No"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9781,7 +9787,7 @@
 			)
 		)
 		(property "FORWARD CURRENT" "300mA"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9793,7 +9799,7 @@
 			)
 		)
 		(property "CAPACITANCE" "4pF"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9805,7 +9811,7 @@
 			)
 		)
 		(property "MAX JUNCTION TEMP" "+150°C"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9817,7 +9823,7 @@
 			)
 		)
 		(property "REVERSE VOLTAGE" "100V"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9829,7 +9835,7 @@
 			)
 		)
 		(property "CATEGORY" "Diode"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9841,7 +9847,7 @@
 			)
 		)
 		(property "OCTOPART" "https://octopart.com/1n914bwt-on+semiconductor-84323166"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9853,7 +9859,7 @@
 			)
 		)
 		(property "DEVICE CLASS L1" "Discrete Semiconductors"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9865,7 +9871,7 @@
 			)
 		)
 		(property "IPC LAND PATTERN NAME" "SODFL16080X60"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9877,7 +9883,7 @@
 			)
 		)
 		(property "DEVICE CLASS L3" "Rectifier Diodes"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9889,7 +9895,7 @@
 			)
 		)
 		(property "MANUFACTURER" "ON Semiconductor"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9901,7 +9907,7 @@
 			)
 		)
 		(property "HEIGHT" "0.7mm"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9913,7 +9919,7 @@
 			)
 		)
 		(property "MAX REPETITIVE REVERSE VOLTAGE" "75V"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9925,7 +9931,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "4pF"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9937,7 +9943,7 @@
 			)
 		)
 		(property "MOUSER DESCRIPTION" "Diodes - General Purpose, Power, Switching SINGLE JUNC. 100V 4.0NS COMP"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9949,7 +9955,7 @@
 			)
 		)
 		(property "TEMPERATURE RANGE LOW" "-55°C"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9961,7 +9967,7 @@
 			)
 		)
 		(property "COMPONENTLINK2URL" "https://www.onsemi.com/pub/Collateral/1N914BWT-D.pdf"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9973,7 +9979,7 @@
 			)
 		)
 		(property "PEAK REVERSE CURRENT" "5uA"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9985,7 +9991,7 @@
 			)
 		)
 		(property "ROHS" "TRUE"
-			(at 167.132 134.366 0)
+			(at 167.132 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9997,7 +10003,7 @@
 			)
 		)
 		(property "CODE_IPC" ""
-			(at 167.64 137.16 0)
+			(at 167.64 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10008,7 +10014,7 @@
 			)
 		)
 		(property "CODE_JEDEC" ""
-			(at 167.64 137.16 0)
+			(at 167.64 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10019,7 +10025,7 @@
 			)
 		)
 		(property "COMPTYPE" ""
-			(at 167.64 137.16 0)
+			(at 167.64 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10030,7 +10036,7 @@
 			)
 		)
 		(property "HIGH-RELIABILITY" ""
-			(at 167.64 137.16 0)
+			(at 167.64 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10041,7 +10047,7 @@
 			)
 		)
 		(property "PACKAGETOPMARKING" ""
-			(at 167.64 137.16 0)
+			(at 167.64 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10052,7 +10058,7 @@
 			)
 		)
 		(property "PINCOUNT" ""
-			(at 167.64 137.16 0)
+			(at 167.64 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10063,7 +10069,7 @@
 			)
 		)
 		(property "POWERWISE" ""
-			(at 167.64 137.16 0)
+			(at 167.64 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10074,7 +10080,7 @@
 			)
 		)
 		(property "RESISTANCE TOLERANCE" ""
-			(at 167.64 137.16 0)
+			(at 167.64 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10175,7 +10181,7 @@
 	)
 	(symbol
 		(lib_id "LEARNSAT_POBOY_v3.2.0-altium-import:GND_POWER_GROUND")
-		(at 152.4 99.06 0)
+		(at 152.4 80.01 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10185,7 +10191,7 @@
 		(dnp no)
 		(uuid "b7146f26-ce69-4d85-a925-0a28f1e91ef5")
 		(property "Reference" "#PWR081"
-			(at 152.4 99.06 0)
+			(at 152.4 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10196,7 +10202,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 152.4 105.41 0)
+			(at 152.4 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10206,7 +10212,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 152.4 99.06 0)
+			(at 152.4 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10216,7 +10222,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 152.4 99.06 0)
+			(at 152.4 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10226,7 +10232,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 152.4 99.06 0)
+			(at 152.4 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10249,7 +10255,7 @@
 	)
 	(symbol
 		(lib_id "Altium Content Vault:root_0_LT-LT1616_1933_1934_1934-1_Altium Content Vault")
-		(at 71.12 129.54 0)
+		(at 71.12 107.95 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10259,7 +10265,7 @@
 		(dnp no)
 		(uuid "cf5b747d-141f-41c4-9988-780cd1447ab4")
 		(property "Reference" "U7"
-			(at 71.12 129.54 0)
+			(at 71.12 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10270,7 +10276,7 @@
 			)
 		)
 		(property "Value" "LT1616ES6#TRMPBF"
-			(at 71.12 149.86 0)
+			(at 71.12 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10281,7 +10287,7 @@
 			)
 		)
 		(property "Footprint" "Vault:LT-S6-6-SOT-23_M"
-			(at 71.12 129.54 0)
+			(at 71.12 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10292,7 +10298,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.12 129.54 0)
+			(at 71.12 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10303,7 +10309,7 @@
 			)
 		)
 		(property "Description" "600 mA, 1.4 MHz Step-Down Switching Regulator, 6-pin SOT23 (S6-6), -40 to 85 degC, Pb-Free, Mini Tape and Reel"
-			(at 71.12 129.54 0)
+			(at 71.12 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10314,7 +10320,7 @@
 			)
 		)
 		(property "PACKAGEDESCRIPTION" "6-Pin Plastic SOT-23, Body 1.625 x 2.9 mm, Pitch 0.95 mm"
-			(at 65.532 125.73 0)
+			(at 65.532 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10326,7 +10332,7 @@
 			)
 		)
 		(property "COMPONENTLINK1DESCRIPTION" "Manufacturer URL"
-			(at 65.532 125.73 0)
+			(at 65.532 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10338,7 +10344,7 @@
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" "Surface Mount"
-			(at 65.532 125.73 0)
+			(at 65.532 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10350,7 +10356,7 @@
 			)
 		)
 		(property "PACKAGEVERSION" "Aug-07"
-			(at 65.532 125.73 0)
+			(at 65.532 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10362,7 +10368,7 @@
 			)
 		)
 		(property "COMPONENTLINK3DESCRIPTION" "Package Specification"
-			(at 65.532 125.73 0)
+			(at 65.532 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10374,7 +10380,7 @@
 			)
 		)
 		(property "NUMBER OF OUTPUTS" "1"
-			(at 65.532 125.73 0)
+			(at 65.532 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10386,7 +10392,7 @@
 			)
 		)
 		(property "PACKAGEREFERENCE" "S6-6"
-			(at 65.532 125.73 0)
+			(at 65.532 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10398,7 +10404,7 @@
 			)
 		)
 		(property "ROHS" "TRUE"
-			(at 65.532 125.73 0)
+			(at 65.532 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10410,7 +10416,7 @@
 			)
 		)
 		(property "COMPONENTLINK1URL" "http://www.linear.com/"
-			(at 65.532 125.73 0)
+			(at 65.532 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10422,7 +10428,7 @@
 			)
 		)
 		(property "COMPONENTLINK2DESCRIPTION" "Datasheet"
-			(at 65.532 125.73 0)
+			(at 65.532 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10434,7 +10440,7 @@
 			)
 		)
 		(property "PACKING" "Mini Tape and Reel"
-			(at 65.532 125.73 0)
+			(at 65.532 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10446,7 +10452,7 @@
 			)
 		)
 		(property "PARTNUMBER" "LT1616ES6#TRMPBF"
-			(at 65.532 125.73 0)
+			(at 65.532 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10458,7 +10464,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Linear Technology"
-			(at 65.532 125.73 0)
+			(at 65.532 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10470,7 +10476,7 @@
 			)
 		)
 		(property "COMPONENTLINK2URL" "http://cds.linear.com/docs/en/datasheet/lt1616fs.pdf"
-			(at 65.532 125.73 0)
+			(at 65.532 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10482,7 +10488,7 @@
 			)
 		)
 		(property "COMPONENTLINK3URL" "http://cds.linear.com/docs/en/datasheet/175435f.pdf"
-			(at 65.532 125.73 0)
+			(at 65.532 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10494,7 +10500,7 @@
 			)
 		)
 		(property "CODE_IPC" ""
-			(at 71.12 129.54 0)
+			(at 71.12 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10505,7 +10511,7 @@
 			)
 		)
 		(property "CODE_JEDEC" ""
-			(at 71.12 129.54 0)
+			(at 71.12 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10516,7 +10522,7 @@
 			)
 		)
 		(property "COMPTYPE" ""
-			(at 71.12 129.54 0)
+			(at 71.12 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10527,7 +10533,7 @@
 			)
 		)
 		(property "HIGH-RELIABILITY" ""
-			(at 71.12 129.54 0)
+			(at 71.12 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10538,7 +10544,7 @@
 			)
 		)
 		(property "PACKAGETOPMARKING" ""
-			(at 71.12 129.54 0)
+			(at 71.12 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10549,7 +10555,7 @@
 			)
 		)
 		(property "PINCOUNT" ""
-			(at 71.12 129.54 0)
+			(at 71.12 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10560,7 +10566,7 @@
 			)
 		)
 		(property "POWERWISE" ""
-			(at 71.12 129.54 0)
+			(at 71.12 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10571,7 +10577,7 @@
 			)
 		)
 		(property "RESISTANCE TOLERANCE" ""
-			(at 71.12 129.54 0)
+			(at 71.12 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10610,7 +10616,7 @@
 	)
 	(symbol
 		(lib_id "LEARNSAT_POBOY_v3.2.0-altium-import:GND_POWER_GROUND")
-		(at 142.24 99.06 0)
+		(at 142.24 86.36 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10620,7 +10626,7 @@
 		(dnp no)
 		(uuid "d09561c9-e4fe-47a9-a1cf-3173fe52f5b9")
 		(property "Reference" "#PWR079"
-			(at 142.24 99.06 0)
+			(at 142.24 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10631,7 +10637,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 142.24 105.41 0)
+			(at 142.24 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10641,7 +10647,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 142.24 99.06 0)
+			(at 142.24 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10651,7 +10657,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 142.24 99.06 0)
+			(at 142.24 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10661,7 +10667,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 142.24 99.06 0)
+			(at 142.24 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10684,7 +10690,7 @@
 	)
 	(symbol
 		(lib_id "Altium Content Vault:root_0_11868f565c42a9108669ba33697ecf6_Altium Content Vault")
-		(at 111.76 124.46 0)
+		(at 111.76 105.41 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10694,7 +10700,7 @@
 		(dnp no)
 		(uuid "d1f2bbe1-25f8-4ed7-81b0-1c70a03c26fd")
 		(property "Reference" "C9"
-			(at 114.554 127.762 0)
+			(at 114.554 108.712 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10705,7 +10711,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 114.3 129.54 0)
+			(at 114.3 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10716,7 +10722,7 @@
 			)
 		)
 		(property "Footprint" "Vault:FP-C0603-CJ-MFG"
-			(at 111.76 124.46 0)
+			(at 111.76 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10727,7 +10733,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 111.76 124.46 0)
+			(at 111.76 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10738,7 +10744,7 @@
 			)
 		)
 		(property "Description" "CAP CER 0.1UF 50V X7R 0603\r\nC0603X104K5RACTU"
-			(at 111.76 124.46 0)
+			(at 111.76 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10749,7 +10755,7 @@
 			)
 		)
 		(property "TEMPERATURE RANGE HIGH" "+125°C"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10761,7 +10767,7 @@
 			)
 		)
 		(property "TEMPERATURE RANGE LOW" "-55°C"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10773,7 +10779,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "C0603X104K5RACTU"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10785,7 +10791,7 @@
 			)
 		)
 		(property "VOLTAGE" "50V"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10797,7 +10803,7 @@
 			)
 		)
 		(property "COMPONENTLINK2DESCRIPTION" "Datasheet"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10809,7 +10815,7 @@
 			)
 		)
 		(property "ROHS" "TRUE"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10821,7 +10827,7 @@
 			)
 		)
 		(property "COMPONENTLINK2URL" "https://content.kemet.com/datasheets/KEM_C1013_X7R_FT-CAP_SMD.pdf"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10833,7 +10839,7 @@
 			)
 		)
 		(property "CAPACITANCE" "100nF"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10845,7 +10851,7 @@
 			)
 		)
 		(property "MATERIAL" "Ceramic"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10857,7 +10863,7 @@
 			)
 		)
 		(property "DEVICE CLASS L3" "Ceramic Capacitors"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10869,7 +10875,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Kemet"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10881,7 +10887,7 @@
 			)
 		)
 		(property "DEVICE CLASS L2" "Capacitors"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10893,7 +10899,7 @@
 			)
 		)
 		(property "PACKAGE" "C0603-CJ"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10905,7 +10911,7 @@
 			)
 		)
 		(property "HEIGHT" "0.95mm"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10917,7 +10923,7 @@
 			)
 		)
 		(property "DEVICE CLASS L1" "Passive Components"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10929,7 +10935,7 @@
 			)
 		)
 		(property "TOLERANCE" "10%"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10941,7 +10947,7 @@
 			)
 		)
 		(property "TEMPERATURE CHARACTERISTIC" "X7R"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10953,7 +10959,7 @@
 			)
 		)
 		(property "LEAD FREE" "Yes"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10965,7 +10971,7 @@
 			)
 		)
 		(property "DIGIKEY DESCRIPTION" "CAP CER 0.1UF 50V X7R 0603"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10977,7 +10983,7 @@
 			)
 		)
 		(property "AUTOMOTIVE" "No"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10989,7 +10995,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "100nF"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11001,7 +11007,7 @@
 			)
 		)
 		(property "TEMPERATURE COEFFICIENT" "15%"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11013,7 +11019,7 @@
 			)
 		)
 		(property "MOUSER DESCRIPTION" "Capacitor; Ceramic; Cap 0.1uF; Tol+10%; SMT; Flexible Termination; Vol-Rtg 50V; TR"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11025,7 +11031,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-55°C to +125°C"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11037,7 +11043,7 @@
 			)
 		)
 		(property "OCTOPART" "https://octopart.com/c0603x104k5ractu-kemet-9145062"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11049,7 +11055,7 @@
 			)
 		)
 		(property "CATEGORY" "Cap"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11061,7 +11067,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "50V"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11073,7 +11079,7 @@
 			)
 		)
 		(property "IPC LAND PATTERN NAME" "CAPC16080X80"
-			(at 108.966 123.952 0)
+			(at 108.966 104.902 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11085,7 +11091,7 @@
 			)
 		)
 		(property "CODE_IPC" ""
-			(at 111.76 124.46 0)
+			(at 111.76 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11096,7 +11102,7 @@
 			)
 		)
 		(property "CODE_JEDEC" ""
-			(at 111.76 124.46 0)
+			(at 111.76 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11107,7 +11113,7 @@
 			)
 		)
 		(property "COMPTYPE" ""
-			(at 111.76 124.46 0)
+			(at 111.76 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11118,7 +11124,7 @@
 			)
 		)
 		(property "HIGH-RELIABILITY" ""
-			(at 111.76 124.46 0)
+			(at 111.76 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11129,7 +11135,7 @@
 			)
 		)
 		(property "PACKAGETOPMARKING" ""
-			(at 111.76 124.46 0)
+			(at 111.76 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11140,7 +11146,7 @@
 			)
 		)
 		(property "PINCOUNT" ""
-			(at 111.76 124.46 0)
+			(at 111.76 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11151,7 +11157,7 @@
 			)
 		)
 		(property "POWERWISE" ""
-			(at 111.76 124.46 0)
+			(at 111.76 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11162,7 +11168,7 @@
 			)
 		)
 		(property "RESISTANCE TOLERANCE" ""
-			(at 111.76 124.46 0)
+			(at 111.76 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11189,7 +11195,7 @@
 	)
 	(symbol
 		(lib_id "Altium Content Vault:root_0_11868f565c42a9108669ba33697ecf6_Altium Content Vault")
-		(at 111.76 45.72 0)
+		(at 111.76 48.26 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11199,7 +11205,7 @@
 		(dnp no)
 		(uuid "d8f7672a-45b6-4fc0-ac55-2d32820ff9bb")
 		(property "Reference" "C5"
-			(at 114.554 49.022 0)
+			(at 114.554 51.562 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11210,7 +11216,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 114.3 50.8 0)
+			(at 114.3 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11221,7 +11227,7 @@
 			)
 		)
 		(property "Footprint" "Vault:FP-C0603-CJ-MFG"
-			(at 111.76 45.72 0)
+			(at 111.76 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11232,7 +11238,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 111.76 45.72 0)
+			(at 111.76 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11243,7 +11249,7 @@
 			)
 		)
 		(property "Description" "CAP CER 0.1UF 50V X7R 0603\r\nC0603X104K5RACTU"
-			(at 111.76 45.72 0)
+			(at 111.76 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11254,7 +11260,7 @@
 			)
 		)
 		(property "TEMPERATURE RANGE HIGH" "+125°C"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11266,7 +11272,7 @@
 			)
 		)
 		(property "TEMPERATURE RANGE LOW" "-55°C"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11278,7 +11284,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "C0603X104K5RACTU"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11290,7 +11296,7 @@
 			)
 		)
 		(property "VOLTAGE" "50V"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11302,7 +11308,7 @@
 			)
 		)
 		(property "COMPONENTLINK2DESCRIPTION" "Datasheet"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11314,7 +11320,7 @@
 			)
 		)
 		(property "ROHS" "TRUE"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11326,7 +11332,7 @@
 			)
 		)
 		(property "COMPONENTLINK2URL" "https://content.kemet.com/datasheets/KEM_C1013_X7R_FT-CAP_SMD.pdf"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11338,7 +11344,7 @@
 			)
 		)
 		(property "CAPACITANCE" "100nF"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11350,7 +11356,7 @@
 			)
 		)
 		(property "MATERIAL" "Ceramic"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11362,7 +11368,7 @@
 			)
 		)
 		(property "DEVICE CLASS L3" "Ceramic Capacitors"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11374,7 +11380,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Kemet"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11386,7 +11392,7 @@
 			)
 		)
 		(property "DEVICE CLASS L2" "Capacitors"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11398,7 +11404,7 @@
 			)
 		)
 		(property "PACKAGE" "C0603-CJ"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11410,7 +11416,7 @@
 			)
 		)
 		(property "HEIGHT" "0.95mm"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11422,7 +11428,7 @@
 			)
 		)
 		(property "DEVICE CLASS L1" "Passive Components"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11434,7 +11440,7 @@
 			)
 		)
 		(property "TOLERANCE" "10%"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11446,7 +11452,7 @@
 			)
 		)
 		(property "TEMPERATURE CHARACTERISTIC" "X7R"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11458,7 +11464,7 @@
 			)
 		)
 		(property "LEAD FREE" "Yes"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11470,7 +11476,7 @@
 			)
 		)
 		(property "DIGIKEY DESCRIPTION" "CAP CER 0.1UF 50V X7R 0603"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11482,7 +11488,7 @@
 			)
 		)
 		(property "AUTOMOTIVE" "No"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11494,7 +11500,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "100nF"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11506,7 +11512,7 @@
 			)
 		)
 		(property "TEMPERATURE COEFFICIENT" "15%"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11518,7 +11524,7 @@
 			)
 		)
 		(property "MOUSER DESCRIPTION" "Capacitor; Ceramic; Cap 0.1uF; Tol+10%; SMT; Flexible Termination; Vol-Rtg 50V; TR"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11530,7 +11536,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-55°C to +125°C"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11542,7 +11548,7 @@
 			)
 		)
 		(property "OCTOPART" "https://octopart.com/c0603x104k5ractu-kemet-9145062"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11554,7 +11560,7 @@
 			)
 		)
 		(property "CATEGORY" "Cap"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11566,7 +11572,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "50V"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11578,7 +11584,7 @@
 			)
 		)
 		(property "IPC LAND PATTERN NAME" "CAPC16080X80"
-			(at 108.966 45.212 0)
+			(at 108.966 47.752 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11590,7 +11596,7 @@
 			)
 		)
 		(property "CODE_IPC" ""
-			(at 111.76 45.72 0)
+			(at 111.76 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11601,7 +11607,7 @@
 			)
 		)
 		(property "CODE_JEDEC" ""
-			(at 111.76 45.72 0)
+			(at 111.76 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11612,7 +11618,7 @@
 			)
 		)
 		(property "COMPTYPE" ""
-			(at 111.76 45.72 0)
+			(at 111.76 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11623,7 +11629,7 @@
 			)
 		)
 		(property "HIGH-RELIABILITY" ""
-			(at 111.76 45.72 0)
+			(at 111.76 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11634,7 +11640,7 @@
 			)
 		)
 		(property "PACKAGETOPMARKING" ""
-			(at 111.76 45.72 0)
+			(at 111.76 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11645,7 +11651,7 @@
 			)
 		)
 		(property "PINCOUNT" ""
-			(at 111.76 45.72 0)
+			(at 111.76 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11656,7 +11662,7 @@
 			)
 		)
 		(property "POWERWISE" ""
-			(at 111.76 45.72 0)
+			(at 111.76 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11667,7 +11673,7 @@
 			)
 		)
 		(property "RESISTANCE TOLERANCE" ""
-			(at 111.76 45.72 0)
+			(at 111.76 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12007,7 +12013,7 @@
 	)
 	(symbol
 		(lib_id "LEARNSAT_POBOY_v3.2.0-altium-import:GND_POWER_GROUND")
-		(at 116.84 177.8 0)
+		(at 116.84 137.16 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12017,7 +12023,7 @@
 		(dnp no)
 		(uuid "daa05cee-5e88-4abd-bd8d-db2cac0ce708")
 		(property "Reference" "#PWR078"
-			(at 116.84 177.8 0)
+			(at 116.84 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12028,7 +12034,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 116.84 184.15 0)
+			(at 116.84 143.51 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12038,7 +12044,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 116.84 177.8 0)
+			(at 116.84 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12048,7 +12054,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 177.8 0)
+			(at 116.84 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12058,7 +12064,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 116.84 177.8 0)
+			(at 116.84 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12081,7 +12087,7 @@
 	)
 	(symbol
 		(lib_id "LEARNSAT_POBOY_v3.2.0-altium-import:GND_POWER_GROUND")
-		(at 53.34 177.8 0)
+		(at 53.34 137.16 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12091,7 +12097,7 @@
 		(dnp no)
 		(uuid "e220394a-3868-4eb9-a664-fd45837feae0")
 		(property "Reference" "#PWR074"
-			(at 53.34 177.8 0)
+			(at 53.34 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12102,7 +12108,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 53.34 184.15 0)
+			(at 53.34 143.51 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12112,7 +12118,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 53.34 177.8 0)
+			(at 53.34 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12122,7 +12128,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 53.34 177.8 0)
+			(at 53.34 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12132,7 +12138,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 53.34 177.8 0)
+			(at 53.34 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12155,7 +12161,7 @@
 	)
 	(symbol
 		(lib_id "Altium Content Vault:root_2_d7152d700b627762746794eb795d46e_Altium Content Vault")
-		(at 137.16 40.64 0)
+		(at 137.16 43.18 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12165,7 +12171,7 @@
 		(dnp no)
 		(uuid "e595ee69-e457-4e71-9717-796cca81da15")
 		(property "Reference" "D3"
-			(at 125.984 37.846 0)
+			(at 125.984 40.386 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12176,7 +12182,7 @@
 			)
 		)
 		(property "Value" "1N914BWT"
-			(at 125.984 45.974 0)
+			(at 125.984 48.514 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12187,7 +12193,7 @@
 			)
 		)
 		(property "Footprint" "Vault:FP-502-01-MFG"
-			(at 137.16 40.64 0)
+			(at 137.16 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12198,7 +12204,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 40.64 0)
+			(at 137.16 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12209,7 +12215,7 @@
 			)
 		)
 		(property "Description" "DIODE GEN PURP 75V 200MA SOD523F"
-			(at 137.16 40.64 0)
+			(at 137.16 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12220,7 +12226,7 @@
 			)
 		)
 		(property "COMPONENTLINK2DESCRIPTION" "Datasheet"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12232,7 +12238,7 @@
 			)
 		)
 		(property "PACKAGE" "502-01"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12244,7 +12250,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "1N914BWT"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12256,7 +12262,7 @@
 			)
 		)
 		(property "DIGIKEY DESCRIPTION" "DIODE GEN PURP 75V 200MA SOD523F"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12268,7 +12274,7 @@
 			)
 		)
 		(property "TEMPERATURE RANGE HIGH" "+150°C"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12280,7 +12286,7 @@
 			)
 		)
 		(property "TEMPERATURE" "-55°C to +150°C"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12292,7 +12298,7 @@
 			)
 		)
 		(property "FOOTPRINT URL" "https://www.onsemi.com/pub/Collateral/502-01.PDF"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12304,7 +12310,7 @@
 			)
 		)
 		(property "DEVICE CLASS L2" "Diodes"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12316,7 +12322,7 @@
 			)
 		)
 		(property "LEAD FREE" "Yes"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12328,7 +12334,7 @@
 			)
 		)
 		(property "AUTOMOTIVE" "No"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12340,7 +12346,7 @@
 			)
 		)
 		(property "FORWARD CURRENT" "300mA"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12352,7 +12358,7 @@
 			)
 		)
 		(property "CAPACITANCE" "4pF"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12364,7 +12370,7 @@
 			)
 		)
 		(property "MAX JUNCTION TEMP" "+150°C"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12376,7 +12382,7 @@
 			)
 		)
 		(property "REVERSE VOLTAGE" "100V"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12388,7 +12394,7 @@
 			)
 		)
 		(property "CATEGORY" "Diode"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12400,7 +12406,7 @@
 			)
 		)
 		(property "OCTOPART" "https://octopart.com/1n914bwt-on+semiconductor-84323166"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12412,7 +12418,7 @@
 			)
 		)
 		(property "DEVICE CLASS L1" "Discrete Semiconductors"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12424,7 +12430,7 @@
 			)
 		)
 		(property "IPC LAND PATTERN NAME" "SODFL16080X60"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12436,7 +12442,7 @@
 			)
 		)
 		(property "DEVICE CLASS L3" "Rectifier Diodes"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12448,7 +12454,7 @@
 			)
 		)
 		(property "MANUFACTURER" "ON Semiconductor"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12460,7 +12466,7 @@
 			)
 		)
 		(property "HEIGHT" "0.7mm"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12472,7 +12478,7 @@
 			)
 		)
 		(property "MAX REPETITIVE REVERSE VOLTAGE" "75V"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12484,7 +12490,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "4pF"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12496,7 +12502,7 @@
 			)
 		)
 		(property "MOUSER DESCRIPTION" "Diodes - General Purpose, Power, Switching SINGLE JUNC. 100V 4.0NS COMP"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12508,7 +12514,7 @@
 			)
 		)
 		(property "TEMPERATURE RANGE LOW" "-55°C"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12520,7 +12526,7 @@
 			)
 		)
 		(property "COMPONENTLINK2URL" "https://www.onsemi.com/pub/Collateral/1N914BWT-D.pdf"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12532,7 +12538,7 @@
 			)
 		)
 		(property "PEAK REVERSE CURRENT" "5uA"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12544,7 +12550,7 @@
 			)
 		)
 		(property "ROHS" "TRUE"
-			(at 121.412 37.846 0)
+			(at 121.412 40.386 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12556,7 +12562,7 @@
 			)
 		)
 		(property "CODE_IPC" ""
-			(at 137.16 40.64 0)
+			(at 137.16 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12567,7 +12573,7 @@
 			)
 		)
 		(property "CODE_JEDEC" ""
-			(at 137.16 40.64 0)
+			(at 137.16 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12578,7 +12584,7 @@
 			)
 		)
 		(property "COMPTYPE" ""
-			(at 137.16 40.64 0)
+			(at 137.16 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12589,7 +12595,7 @@
 			)
 		)
 		(property "HIGH-RELIABILITY" ""
-			(at 137.16 40.64 0)
+			(at 137.16 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12600,7 +12606,7 @@
 			)
 		)
 		(property "PACKAGETOPMARKING" ""
-			(at 137.16 40.64 0)
+			(at 137.16 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12611,7 +12617,7 @@
 			)
 		)
 		(property "PINCOUNT" ""
-			(at 137.16 40.64 0)
+			(at 137.16 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12622,7 +12628,7 @@
 			)
 		)
 		(property "POWERWISE" ""
-			(at 137.16 40.64 0)
+			(at 137.16 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12633,7 +12639,7 @@
 			)
 		)
 		(property "RESISTANCE TOLERANCE" ""
-			(at 137.16 40.64 0)
+			(at 137.16 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
